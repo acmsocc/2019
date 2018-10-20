@@ -412,7 +412,7 @@ day3:
     - Supreeth Shastri (University of Massachusetts Amherst)
     - David Irwin (University of Massachusetts Amherst)
     title: 'Cloud Index Tracking: Enabling Predictable Costs in Cloud Spot Markets'
-    url: 'slides/socc18-slides-shastri.pdf'
+    slides: 'slides/socc18-slides-shastri.pdf'
   title: 'Session 9 (Cloud Potpourri)'
   chair: 'Eric Schufza'
 - end: 10:50 AM
