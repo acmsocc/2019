@@ -25,17 +25,20 @@ day1:
     - Yaoliang Yu (University of Waterloo)
     - Eric P. Xing (Petuum Inc.)
     title: 'Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design'
+    slides: 'slides/socc18-slides-xie.pdf'
   - authors:
     - Hao Wang (University of Toronto)
     - Di Niu (University of Alberta)
     - Baochun Li (University of Toronto)
     title: 'Dynamic and Decentralized Global Analytics via Machine Learning'
+    slides: 'slides/socc18-slides-wang-hao.pdf'
     #url: 'https://dl.acm.org/authorize?N46885'
   - authors:
     - Huangshi Tian (Hong Kong University of Science and Technology) 
     - Minchen Yu (Hong Kong University of Science and Technology) 
     - Wei Wang (Hong Kong University of Science and Technology)
     title: 'Continuum: A Platform for Cost-Aware, Low-Latency Continual Learning'
+    slides: 'slides/socc18-slides-tian.pdf'
     #url: 'https://dl.acm.org/authorize?N46879'
   - authors:
     - Liang Luo (University of Washington) 
@@ -44,6 +47,7 @@ day1:
     - Amar Phanishayee (Microsoft Research) 
     - Arvind Krishnamurthy (University of Washington)
     title: 'Parameter Hub: a Rack-Scale Parameter Server for Distributed Deep Neural Network Training'
+    #slides: 'slides/socc18-slides-luo.pdf'
     #url: 'https://dl.acm.org/authorize?N46854'
   title: 'Session 1 (Machine Learning)'
   chair: 'Iqbal Mohomed'
@@ -60,6 +64,7 @@ day1:
     - Muhammed Uluyol (University of Michigan)
     - Harsha V. Madhyastha (University of Michigan)
     title: 'Bolt-On Global Consistency for the Cloud'
+    slides: 'slides/socc18-slides-wu.pdf'
     #url: 'https://dl.acm.org/authorize?N46855'
   - authors:
     - Hanyu Zhao (Peking University)
@@ -68,12 +73,14 @@ day1:
     - Ming Wu (Microsoft Research Asia)
     - Yafei Dai (Peking University)
     title: 'SDPaxos: Building Efficient Semi-Decentralized Geo-replicated State Machines'
+    slides: 'slides/socc18-slides-zhao.pdf'
     #url: 'https://dl.acm.org/authorize?N46881'
   - authors:
     - Eduardo Alchieri (Universidade de Brasilia) 
     - Fernando Dotti (PUC) 
     - Fernando Pedone (Universita della Svizzera italiana)
     title: 'Early Scheduling in Parallel State Machine Replication'
+    slides: 'slides/socc18-slides-alchieri.pdf'
     #url: 'https://dl.acm.org/authorize?N46889'
   - authors:
     - Ioannis Manousakis (Microsoft)
@@ -82,6 +89,7 @@ day1:
     - Sandro Rigo (Unicamp Brazil)
     - Thu D. Nguyen (Rutgers University)
     title: 'Uncertainty Propagation in Data Processing Systems'
+    #slides: 'slides/socc18-slides-manousakis.pdf'
     #url: 'https://dl.acm.org/authorize?N46876'
   title: Session 2 (Consistency and Correctness)
   chair: 'Yu Hua'
@@ -97,12 +105,14 @@ day1:
     - Libin Liu (City University of Hong Kong)
     - Hong Xu (City University of Hong Kong)
     title: 'Elasecutor: Elastic Executor Scheduling in Data Analytics Systems'
+    slides: 'slides/socc18-slides-liu-libin.pdf'
     #url: 'https://dl.acm.org/authorize?N46884'
   - authors:
     - Andrew Chung (Carnegie Mellon University)
     - Jun Woo Park (Carnegie Mellon University)
     - Gregory R. Ganger (Carnegie Mellon University)
     title: 'Stratus: cost-aware container scheduling in the public cloud'
+    slides: 'slides/socc18-slides-chung.pdf'
     #url: 'https://dl.acm.org/authorize?N46864'
   - authors:
     - Pamela Delgado (EPFL)
@@ -110,6 +120,7 @@ day1:
     - Florin Dinu (EPFL)
     - Willy Zwaenepoel (EPFL)
     title: 'Kairos: Preemptive Data Center Scheduling Without Runtime Estimates'
+    slides: 'slides/socc18-slides-delgado.pdf'
     #url: 'https://dl.acm.org/authorize?N46868'
   - authors:
     - Hao Zhou (Tencent Inc.)
@@ -122,6 +133,7 @@ day1:
     - Beng Chin Ooi (National University of Singapore)
     - Junfeng Yang (Columbia University)
     title: 'Overload Control for Scaling WeChat Microservices'
+    slides: 'slides/socc18-slides-zhou.pdf'
     #url: 'https://dl.acm.org/authorize?N46742'
   title: Session 3 (Cloud Scheduling)
   chair: 'Patrick Stuedi'
@@ -140,6 +152,7 @@ day1:
     - Ymir Vigfusson (Emory & Reykjavik University)
     - Ada Gavrilovska (Georgia Institute of Technology)
     title: 'Mutant: Balancing Storage Cost and Latency in LSM-Tree Data Stores'
+    slides: 'slides/socc18-slides-yoon.pdf'
     #url: 'https://dl.acm.org/authorize?N46886'
   - authors:
     - Chao Zheng (University of Notre Dame)
@@ -151,6 +164,7 @@ day1:
     - Amit S. Warke (IBM Research - Almaden)
     - Dean Hildebrand (Google)
     title: 'Wharf: Sharing Docker Images in a Distributed File System'
+    slides: 'slides/socc18-slides-zheng.pdf'
     #url: 'https://dl.acm.org/authorize?N46860'
   - authors:
     - Virajith Jalaparti (Microsoft)
@@ -163,6 +177,7 @@ day1:
     - Joseph Naor (Technion)
     - Sriram Rao (Microsoft)
     title: 'Netco: Cache and I/O Management for Analytics over Disaggregated Stores'
+    #slides: 'slides/socc18-slides-jalaparti.pdf'
     #url: 'https://dl.acm.org/authorize?N46749'
   title: Session 4 (Storage in the Cloud)
   chair: 'Haryadi Gunawi'
@@ -179,6 +194,7 @@ day1:
     - Martin Lucina (robur.io/CCT)
     - Nikhil Acharya Prakash (Bits Pilani) 
     title: 'Unikernels as Processes'
+    slides: 'slides/socc18-slides-williams.pdf'
     #url: 'https://dl.acm.org/authorize?N46886'
   - authors:
     - Priyanka Naik (Indian Institute of Technology Bombay)
@@ -186,6 +202,7 @@ day1:
     - Trishal Patel (Indian Institute of Technology Bombay)
     - Mythili Vutukuru (Indian Institute of Technology Bombay)
     title: 'libVNF: Building Virtual Network Functions Made Easy'
+    slides: 'slides/socc18-slides-naik.pdf'
     #url: 'https://dl.acm.org/authorize?N46860'
   - authors:
     - Yanfang Le (UW-Madison)
@@ -194,6 +211,7 @@ day1:
     - Aditya Akella (UW-Madison)
     - Michael Swift (UW-Madison)
     title: 'RoGUE: RDMA over Generic Unconverged Ethernet'
+    slides: 'slides/socc18-slides-le.pdf'
     #url: 'https://dl.acm.org/authorize?N46749'
   - authors:
     - Ki-Dong Kang (DGIST)
@@ -202,6 +220,7 @@ day1:
     - Jaehyuk Huh (KAIST)
     - Nam Sung Kim (UIUC)
     title: 'VIP: Virtual Performance-State for Efficient Power Management of Virtual Machines'
+    #slides: 'slides/socc18-slides-kang.pdf'
     #url: 'https://dl.acm.org/authorize?N46895'
   title: Session 5 (Cloud Infrastructure)
   chair: 'Shahram Ghandeharizadeh'
@@ -242,6 +261,7 @@ day2:
     - Richa Meherwal (phData Inc.)
     - Indranil Gupta (University of Illinois, Urbana Champaign)
     title: 'Henge: Intent-driven Multi-Tenant Stream Processing'
+    slides: 'slides/socc18-slides-kalim.pdf'
     #url: 'https://dl.acm.org/authorize?N46740'
   - authors:
     - Lixiang Ao (UCSD)
@@ -249,6 +269,7 @@ day2:
     - Geoffrey M. Voelker (UCSD)
     - George Porter (UCSD)
     title: 'Sprocket: A Serverless Video Processing Framework for the Cloud'
+    slides: 'slides/socc18-slides-ao.pdf'
     #url: 'https://dl.acm.org/authorize?N46859'
   - authors:
     - Youfu Li (University of California, Los Angeles)
@@ -256,6 +277,7 @@ day2:
     - Ling Ding (University of California, Los Angeles)
     - Matteo Interlandi (Microsoft, Inc.)
     title: 'RIOS: Runtime Integrated Optimizer for Spark'
+    slides: 'slides/socc18-slides-li.pdf'
     #url: 'https://dl.acm.org/authorize?N46880'
   - authors:
     - Andreas Kunft (Technische Universität Berlin)
@@ -268,11 +290,13 @@ day2:
     - Juan Fumero (The University of Manchester) 
     - Volker Markl (Technische Universität Berlin)
     title: 'ScootR: Scaling R Dataframes on Dataflow Systems'
+    slides: 'slides/socc18-slides-kunft.pdf'
     #url: 'https://dl.acm.org/authorize?N46743'
   - authors:
     - Feng Sheng (Huazhong University of Science and Technology)
     - Qiang Cao (Huazhong University of Science and Technology)
     title: 'GraPU: Accelerate Real-Time Graph Analysis through Preprocessing Buffered Updates'	
+    #slides: 'slides/socc18-slides-sheng.pdf'
     #url: 'https://dl.acm.org/authorize?N46851'
   title: 'Session 6 (Cloud Compute Engines)'
   chair: 'Chris Rossbach'
@@ -301,6 +325,7 @@ day2:
     - Shan Lu (University of Chicago)
     - Peipei Wang (North Carolina State University)
     title: 'DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems'
+    #slides: 'slides/socc18-slides-dai.pdf'
     #url: 'https://dl.acm.org/authorize?N46887'
   - authors:
     - Pedro Las-Casas (Universidade Federal de Minas Gerais)
@@ -308,6 +333,7 @@ day2:
     - Dorgival Guedes (Universidade Federal de Minas Gerais)
     - Rodrigo Fonseca (Brown University)
     title: 'Weighted Sampling of Execution Traces: Capturing More Needles and Less Hay'
+    #slides: 'slides/socc18-slides-las-casas.pdf'
     #url: 'https://dl.acm.org/authorize?N46874'
   - authors:
     - Michael Whittaker (UC Berkeley)
@@ -315,11 +341,13 @@ day2:
     - Peter Alvaro (UC Santa Cruz)
     - Joseph M. Hellerstein (UC Berkeley)
     title: 'Debugging Distributed Systems with Why-Across-Time Provenance'
+    slides: 'slides/socc18-slides-whittaker.pdf'
     #url: 'https://dl.acm.org/authorize?N46850'
   - authors:
     - Qixiao Liu (Shenzhen Institute of Advanced Technology, Chinese Academy of Science)
     - Zhibin Yu (Shenzhen Institute of Advanced Technology, Chinese Academy of Science)
     title: 'The Elasticity and Plasticity in Semi-Containerized Co-locating Cloud Workload: a View from Alibaba Trace'
+    slides: 'slides/socc18-slides-liu-qixiao.pdf'
     #url: 'https://dl.acm.org/authorize?N46852'
   title: Session 7 (Visibility and Debugging)
   chair: 'Tyson Condie'
@@ -336,12 +364,14 @@ day2:
     - Robert Ricci (University of Utah)
     - Jacobus Van der Merwe (University of Utah)
     title: 'I Heard It through the Firewall: Exploiting Cloud Management Services as an Information Leakage Channel'
+    slides: 'slides/socc18-slides-baek.pdf'
     #url: 'https://dl.acm.org/authorize?N46741'
   - authors:
     - Ian A. Kash (University of Illinois at Chicago)
     - Greg O'Shea (Microsoft Research)
     - Stavros Volos (Microsoft Research)
     title: 'DC-DRF: Adaptive Multi-Resource Sharing at Public Cloud Scale'
+    slides: 'slides/socc18-slides-kash.pdf'
     #url: 'https://dl.acm.org/authorize?N46865'
   - authors:
     - Kirill L. Bogdanov (KTH Royal Institute of Technology)
@@ -350,6 +380,7 @@ day2:
     - Dejan Kostic (KTH Royal Institute of Technology)
     - Marco Canini (KAUST)
     title: 'Fast and Accurate Load Balancing for Geo-Distributed Storage Systems'
+    #slides: 'slides/socc18-slides-bogdanov.pdf'
     #url: 'https://dl.acm.org/authorize?N46867'
   - authors:
     - Hyuk-Jin Jeong (Seoul National University)
@@ -357,6 +388,7 @@ day2:
     - Chang Hyun Shin (Seoul National University)
     - Soo-Mook Moon (Seoul National University)
     title: 'IONN: Incremental Offloading of Neural Network Computations from Mobile Devices to Edge Servers'
+    #slides: 'slides/socc18-slides-jeong.pdf'
     #url: 'https://dl.acm.org/authorize?N46867'
   title: Session 8 (Cloud Resource Management)
   chair: 'Jayneel Gandhi'
@@ -390,6 +422,7 @@ day3:
     - Abhishek Chandra (University of Minnesota)
     - Jon Weissman (University of Minnesota)
     title: 'Multi-Query Optimization in Wide-Area Streaming Analytics'
+    slides: 'slides/socc18-slides-jonathan.pdf'
     #url: 'https://dl.acm.org/authorize?N46863'
   - authors:
     - Do Le Quoc (TU Dresden)
@@ -400,6 +433,7 @@ day3:
     - Christof Fetzer (TU Dresden)
     - Thorsten Strufe (TU Dresden)
     title: 'ApproxJoin: Approximate Distributed Joins'
+    slides: 'slides/socc18-slides-quoc.pdf'
     #url: 'https://dl.acm.org/authorize?N46744'
   - authors:
     - Renato Marroquín (ETH Zurich)
@@ -407,6 +441,7 @@ day3:
     - Darko Makreshanski (Oracle Labs)
     - Gustavo Alonso (ETH Zurich)
     title: 'Pay One, Get Hundreds for Free: Reducing Cloud Costs through Shared Query Execution'
+    slides: 'slides/socc18-slides-marroquin.pdf'
     #url: 'https://dl.acm.org/authorize?N46857'
   - authors:
     - Supreeth Shastri (University of Massachusetts Amherst)
@@ -426,6 +461,7 @@ day3:
     - Kefei Wang (Louisiana State University) 
     - Feng Chen (Louisiana State University)
     title: 'Cascade Mapping: Optimizing Memory Efficiency for Flash-based Key-value Caching'
+    slides: 'slides/socc18-slides-wang-kefei.pdf'
     #url: 'https://dl.acm.org/authorize?N46871'
   - authors:
     - Fei Mei (Huazhong University of Science and Technology)
@@ -433,6 +469,7 @@ day3:
     - Hong Jiang (University of Texas at Arlington)
     - Jingjun Li (Huazhong University of Science and Technology)
     title: 'SifrDB: A Unified Solution for Write-Optimized Key-Value Stores in Large Datacenter'
+    #slides: 'slides/socc18-slides-mei.pdf'
     #url: 'https://dl.acm.org/authorize?N46882'
   - authors:
     - Anastasios Papagiannis (Institute of Computer Science, FORTH (ICS))
@@ -440,6 +477,7 @@ day3:
     - Pilar González-Férez (Department of Computer Engineering, University of Murcia, Spain)
     - Angelos Bilas (Institute of Computer Science, FORTH (ICS))
     title: 'An Efficient Memory-Mapped Key-Value Store for Flash Storage'
+    slides: 'slides/socc18-slides-papagiannis.pdf'
     #url: 'https://dl.acm.org/authorize?N46873'
   title: Session 10 (Key Value Stores in the Cloud)
   chair: 'Heiner Litz'
