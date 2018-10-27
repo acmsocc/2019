@@ -380,7 +380,7 @@ day2:
     - Dejan Kostic (KTH Royal Institute of Technology)
     - Marco Canini (KAUST)
     title: 'Fast and Accurate Load Balancing for Geo-Distributed Storage Systems'
-    #slides: 'slides/socc18-slides-bogdanov.pdf'
+    slides: 'slides/socc18-slides-bogdanov.pdf'
     #url: 'https://dl.acm.org/authorize?N46867'
   - authors:
     - Hyuk-Jin Jeong (Seoul National University)
