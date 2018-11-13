@@ -47,7 +47,7 @@ day1:
     - Amar Phanishayee (Microsoft Research) 
     - Arvind Krishnamurthy (University of Washington)
     title: 'Parameter Hub: a Rack-Scale Parameter Server for Distributed Deep Neural Network Training'
-    #slides: 'slides/socc18-slides-luo.pdf'
+    slides: 'slides/socc18-slides-luo.pdf'
     #url: 'https://dl.acm.org/authorize?N46854'
   title: 'Session 1 (Machine Learning)'
   chair: 'Iqbal Mohomed'
