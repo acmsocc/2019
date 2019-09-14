@@ -56,100 +56,25 @@ day1:
   start: 2:50 PM
   talks: []
   title: Mini Break 
-- end: 4:00 PM
-  start: 3:00 PM
-  talks:
-  - authors:
-    - Hobin Yoon (Georgia Institute of Technology)
-    - Juncheng Yang (Emory University)
-    - Sveinn Fannar Kristjansson (Spotify)
-    - Steinn E. Sigurdarson (Takumi)
-    - Ymir Vigfusson (Emory & Reykjavik University)
-    - Ada Gavrilovska (Georgia Institute of Technology)
-    title: 'Mutant: Balancing Storage Cost and Latency in LSM-Tree Data Stores'
-    slides: 'slides/socc18-slides-yoon.pdf'
-    #url: 'https://dl.acm.org/authorize?N46886'
-  - authors:
-    - Chao Zheng (University of Notre Dame)
-    - Lukas Rupprecht (IBM Research - Almaden)
-    - Vasily Tarasov (IBM Research - Almaden)
-    - Douglas Thain (University of Notre Dame)
-    - Mohamed Mohamed (IBM Research - Almaden)
-    - Dimitrios Skourtis (IBM Research - Almaden) 
-    - Amit S. Warke (IBM Research - Almaden)
-    - Dean Hildebrand (Google)
-    title: 'Wharf: Sharing Docker Images in a Distributed File System'
-    slides: 'slides/socc18-slides-zheng.pdf'
-    #url: 'https://dl.acm.org/authorize?N46860'
-  - authors:
-    - Virajith Jalaparti (Microsoft)
-    - Chris Douglas (Microsoft)
-    - Mainak Ghosh (University of Illinois, Urbana-Champaign)
-    - Ashvin Agrawal (Microsoft)
-    - Avrilia Floratou (Microsoft)
-    - Srikanth Kandula (Microsoft)
-    - Ishai Menache (Microsoft)
-    - Joseph Naor (Technion)
-    - Sriram Rao (Microsoft)
-    title: 'Netco: Cache and I/O Management for Analytics over Disaggregated Stores'
-    #slides: 'slides/socc18-slides-jalaparti.pdf'
-    #url: 'https://dl.acm.org/authorize?N46749'
-  title: Session 4 (Storage in the Cloud)
-  chair: 'Haryadi Gunawi'
 - end: 4:30 PM
-  start: 4:00 PM
+  start: 3:00 PM
+  talks: []
+  title: Session 3
+- end: 5 PM
+  start: 4:30 PM
   talks: []
   title: Break  
-- end: 5:50 PM
-  start: 4:30 PM
-  talks:
-  - authors:
-    - Daniel Williams (IBM Research)
-    - Ricardo Koller (IBM Research)
-    - Martin Lucina (robur.io/CCT)
-    - Nikhil Acharya Prakash (Bits Pilani) 
-    title: 'Unikernels as Processes'
-    slides: 'slides/socc18-slides-williams.pdf'
-    #url: 'https://dl.acm.org/authorize?N46886'
-  - authors:
-    - Priyanka Naik (Indian Institute of Technology Bombay)
-    - Akash Kanase (Indian Institute of Technology Bombay)
-    - Trishal Patel (Indian Institute of Technology Bombay)
-    - Mythili Vutukuru (Indian Institute of Technology Bombay)
-    title: 'libVNF: Building Virtual Network Functions Made Easy'
-    slides: 'slides/socc18-slides-naik.pdf'
-    #url: 'https://dl.acm.org/authorize?N46860'
-  - authors:
-    - Yanfang Le (UW-Madison)
-    - Brent Stephens (UW-Madison) 
-    - Arjun Singhvi (UW-Madison)
-    - Aditya Akella (UW-Madison)
-    - Michael Swift (UW-Madison)
-    title: 'RoGUE: RDMA over Generic Unconverged Ethernet'
-    slides: 'slides/socc18-slides-le.pdf'
-    #url: 'https://dl.acm.org/authorize?N46749'
-  - authors:
-    - Ki-Dong Kang (DGIST)
-    - Mohammand Alian (UIUC)
-    - Daehoon Kim (DGIST)
-    - Jaehyuk Huh (KAIST)
-    - Nam Sung Kim (UIUC)
-    title: 'VIP: Virtual Performance-State for Efficient Power Management of Virtual Machines'
-    #slides: 'slides/socc18-slides-kang.pdf'
-    #url: 'https://dl.acm.org/authorize?N46895'
-  title: Session 5 (Cloud Infrastructure)
-  chair: 'Shahram Ghandeharizadeh'
-- end: 6:00 PM
-  start: 5:50 PM
+- end: 6:30 PM
+  start: 5 PM
   talks: []
-  title: Mini-break  
-- end: 7:30 PM
-  start: 6:00 PM
-  talks: []
-  title: Poster session I
-  url: "poster-schedule.html"
-  location: Shearwater 4-5
-
+  title: Session 4 
+  #chair: 'Shahram Ghandeharizadeh'
+- end: 8 PM
+  start: 6:30 PM
+  talks: 
+  - authors: (only for attendees staying at Chaminade)
+  title: Dinner 
+ # location: TBA 
 day2:
 - end: 9:00 AM
   start: 7:30 AM
