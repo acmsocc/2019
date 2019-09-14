@@ -29,53 +29,20 @@ day1:
   start: 9:00 AM
   talks: []
   title: Session 1
-- end: 10:50 AM
-  start: 10:20 AM
-  talks: []
+- end: 11:00 AM
+  start: 10:30 AM
+  talks: 
+  - authors: Sponsored Exclusively by Microsoft
   title: Break
-- end: 12:10 PM
-  start: 10:50 AM
-  talks:
-  - authors:
-    - Zhe Wu (Google)
-    - Edward Wijaya (University of Michigan)
-    - Muhammed Uluyol (University of Michigan)
-    - Harsha V. Madhyastha (University of Michigan)
-    title: 'Bolt-On Global Consistency for the Cloud'
-    slides: 'slides/socc18-slides-wu.pdf'
-    #url: 'https://dl.acm.org/authorize?N46855'
-  - authors:
-    - Hanyu Zhao (Peking University)
-    - Zhi Yang (Peking University)
-    - Quanlu Zhang (Microsoft Research Asia)
-    - Ming Wu (Microsoft Research Asia)
-    - Yafei Dai (Peking University)
-    title: 'SDPaxos: Building Efficient Semi-Decentralized Geo-replicated State Machines'
-    slides: 'slides/socc18-slides-zhao.pdf'
-    #url: 'https://dl.acm.org/authorize?N46881'
-  - authors:
-    - Eduardo Alchieri (Universidade de Brasilia) 
-    - Fernando Dotti (PUC) 
-    - Fernando Pedone (Universita della Svizzera italiana)
-    title: 'Early Scheduling in Parallel State Machine Replication'
-    slides: 'slides/socc18-slides-alchieri.pdf'
-    #url: 'https://dl.acm.org/authorize?N46889'
-  - authors:
-    - Ioannis Manousakis (Microsoft)
-    - Ricardo Bianchini (Microsoft Research)
-    - Inigo Goiri (Microsoft Research)
-    - Sandro Rigo (Unicamp Brazil)
-    - Thu D. Nguyen (Rutgers University)
-    title: 'Uncertainty Propagation in Data Processing Systems'
-    #slides: 'slides/socc18-slides-manousakis.pdf'
-    #url: 'https://dl.acm.org/authorize?N46876'
-  title: Session 2 (Consistency and Correctness)
-  chair: 'Yu Hua'
-- end: 1:30 PM
-  start: 12:10 PM
+- end: 12:30 PM
+  start: 11:00 AM
+  talks: []
+  title: Session 2
+- end: 1:20 PM
+  start: 12:30 PM
   talks: []
   title: Lunch
-  location: Garden Patio and Lawn
+  #location: Garden Patio and Lawn
 - end: 2:50 PM
   start: 1:30 PM
   talks:
