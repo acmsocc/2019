@@ -128,6 +128,10 @@ day2:
   talks: 
   - authors: (for attendees staying at Chaminade)
   title: Dinner
+- end: []
+  start: 8 PM
+  talks: []
+  title: Band show, drinks and networking
 day3:
 - end: 9:00 AM
   start: 7:30 AM
