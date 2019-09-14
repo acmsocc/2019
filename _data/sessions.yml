@@ -93,7 +93,7 @@ day2:
   - authors: Sponsored by Amazon Web Services  
   title: Break
 - end : 12:30 PM
-  start: 11 PM
+  start: 11 AM
   talks: []
   title: Session 6
 - end: 1:20 PM
@@ -138,7 +138,6 @@ day3:
   talks:
   - authors: (for attendees staying at Chaminade)
   title: Breakfast
-  location : Foyer
 - end: 9 AM
   start: 8:20 AM
   talks: []
