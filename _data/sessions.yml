@@ -133,80 +133,29 @@ day2:
   talks: []
   title: Band show, drinks and networking
 day3:
-- end: 9:00 AM
+- end: 8:20 AM
   start: 7:30 AM
-  talks: []
+  talks:
+  - authors: (for attendees staying at Chaminade)
   title: Breakfast
   location : Foyer
-- end: 10:20 AM
-  start: 9:00 AM
-  talks:
-  - authors:
-    - Albert Jonathan (University of Minnesota)
-    - Abhishek Chandra (University of Minnesota)
-    - Jon Weissman (University of Minnesota)
-    title: 'Multi-Query Optimization in Wide-Area Streaming Analytics'
-    slides: 'slides/socc18-slides-jonathan.pdf'
-    #url: 'https://dl.acm.org/authorize?N46863'
-  - authors:
-    - Do Le Quoc (TU Dresden)
-    - Istemi Ekin Akkus (Nokia Bell Labs)
-    - Pramod Bhatotia (University of Edinburgh)
-    - Spyros Blanas (The Ohio State University)
-    - Ruichuan Chen (Nokia Bell Labs)
-    - Christof Fetzer (TU Dresden)
-    - Thorsten Strufe (TU Dresden)
-    title: 'ApproxJoin: Approximate Distributed Joins'
-    slides: 'slides/socc18-slides-quoc.pdf'
-    #url: 'https://dl.acm.org/authorize?N46744'
-  - authors:
-    - Renato Marroquín (ETH Zurich)
-    - Ingo Müller (ETH Zurich) 
-    - Darko Makreshanski (Oracle Labs)
-    - Gustavo Alonso (ETH Zurich)
-    title: 'Pay One, Get Hundreds for Free: Reducing Cloud Costs through Shared Query Execution'
-    slides: 'slides/socc18-slides-marroquin.pdf'
-    #url: 'https://dl.acm.org/authorize?N46857'
-  - authors:
-    - Supreeth Shastri (University of Massachusetts Amherst)
-    - David Irwin (University of Massachusetts Amherst)
-    title: 'Cloud Index Tracking: Enabling Predictable Costs in Cloud Spot Markets'
-    slides: 'slides/socc18-slides-shastri.pdf'
-  title: 'Session 9 (Cloud Potpourri)'
-  chair: 'Eric Schufza'
-- end: 10:50 AM
-  start: 10:20 AM
+- end: 9 AM
+  start: 8:20 AM
   talks: []
-  title: Break
-- end: 11:50 AM
-  start: 10:50 AM
-  talks:
-  - authors:
-    - Kefei Wang (Louisiana State University) 
-    - Feng Chen (Louisiana State University)
-    title: 'Cascade Mapping: Optimizing Memory Efficiency for Flash-based Key-value Caching'
-    slides: 'slides/socc18-slides-wang-kefei.pdf'
-    #url: 'https://dl.acm.org/authorize?N46871'
-  - authors:
-    - Fei Mei (Huazhong University of Science and Technology)
-    - Qiang Cao (Huazhong University of Science and Technology) 
-    - Hong Jiang (University of Texas at Arlington)
-    - Jingjun Li (Huazhong University of Science and Technology)
-    title: 'SifrDB: A Unified Solution for Write-Optimized Key-Value Stores in Large Datacenter'
-    #slides: 'slides/socc18-slides-mei.pdf'
-    #url: 'https://dl.acm.org/authorize?N46882'
-  - authors:
-    - Anastasios Papagiannis (Institute of Computer Science, FORTH (ICS))
-    - Giorgos Saloustros (Institute of Computer Science, FORTH (ICS))
-    - Pilar González-Férez (Department of Computer Engineering, University of Murcia, Spain)
-    - Angelos Bilas (Institute of Computer Science, FORTH (ICS))
-    title: 'An Efficient Memory-Mapped Key-Value Store for Flash Storage'
-    slides: 'slides/socc18-slides-papagiannis.pdf'
-    #url: 'https://dl.acm.org/authorize?N46873'
-  title: Session 10 (Key Value Stores in the Cloud)
-  chair: 'Heiner Litz'
-- end: 1:30 PM
-  start: 11:50 AM
+  title: Award Session
+- end: 10:30 AM
+  start: 9 AM
+  talks: []
+  title: Session 9
+- end: 11 AM
+  start: 10:30 AM
+  talks: []
+  title: Break 
+- end: 12:30 PM
+  start: 11 AM
+  talks: []
+  title: Session 10
+- end: 2 PM
+  start: 12:30 PM
   talks: []
   title: Lunch
-  location: Garden Patio and Lawn
