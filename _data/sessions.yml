@@ -43,49 +43,19 @@ day1:
   talks: []
   title: Lunch
   #location: Garden Patio and Lawn
+- end: 2:10 PM
+  start: 1:20 PM
+  talks: []
+  title: Poster Session 1
+  # chair: 'Patrick Stuedi'
 - end: 2:50 PM
-  start: 1:30 PM
-  talks:
-  - authors:
-    - Libin Liu (City University of Hong Kong)
-    - Hong Xu (City University of Hong Kong)
-    title: 'Elasecutor: Elastic Executor Scheduling in Data Analytics Systems'
-    slides: 'slides/socc18-slides-liu-libin.pdf'
-    #url: 'https://dl.acm.org/authorize?N46884'
-  - authors:
-    - Andrew Chung (Carnegie Mellon University)
-    - Jun Woo Park (Carnegie Mellon University)
-    - Gregory R. Ganger (Carnegie Mellon University)
-    title: 'Stratus: cost-aware container scheduling in the public cloud'
-    slides: 'slides/socc18-slides-chung.pdf'
-    #url: 'https://dl.acm.org/authorize?N46864'
-  - authors:
-    - Pamela Delgado (EPFL)
-    - Diego Didona (EPFL)
-    - Florin Dinu (EPFL)
-    - Willy Zwaenepoel (EPFL)
-    title: 'Kairos: Preemptive Data Center Scheduling Without Runtime Estimates'
-    slides: 'slides/socc18-slides-delgado.pdf'
-    #url: 'https://dl.acm.org/authorize?N46868'
-  - authors:
-    - Hao Zhou (Tencent Inc.)
-    - Ming Chen (Tencent Inc.)
-    - Qian Lin (National University of Singapore)
-    - Yong Wang (Tencent Inc.)
-    - Xiaobin She (Tencent Inc.)
-    - Sifan Liu (Tencent Inc.)
-    - Rui Gu (Columbia University)
-    - Beng Chin Ooi (National University of Singapore)
-    - Junfeng Yang (Columbia University)
-    title: 'Overload Control for Scaling WeChat Microservices'
-    slides: 'slides/socc18-slides-zhou.pdf'
-    #url: 'https://dl.acm.org/authorize?N46742'
-  title: Session 3 (Cloud Scheduling)
-  chair: 'Patrick Stuedi'
+  start: 2:10 PM
+  talks: []
+  title: Keynote 1 
 - end: 3:00 PM
   start: 2:50 PM
   talks: []
-  title: Break  
+  title: Mini Break 
 - end: 4:00 PM
   start: 3:00 PM
   talks:
