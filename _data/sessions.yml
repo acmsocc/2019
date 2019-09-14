@@ -4,7 +4,11 @@ day0:
   talks: 
   - authors: (for attendees staying at Chaminade)
   title: Dinner 
- # location: TBA
+  location: TBA  
+- end: 9:00 AM
+  start: 8:45 AM
+  talks: []
+  title: Introductory remarks
 day1:
 - end: 8:45 AM
   start: 7:30 AM
