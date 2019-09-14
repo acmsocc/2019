@@ -5,12 +5,6 @@ day0:
   - authors: (for attendees staying at Chaminade)
   title: Dinner 
  # location: TBA
- - end: 9 PM
-  start: 8 PM
-  talks: 
-  - authors: Sponsored Exclusively by Google Cloud Platform
-  title: Welcome Reception 
- # location: TBA
 day1:
 - end: 8:45 AM
   start: 7:30 AM
