@@ -1,15 +1,9 @@
 day0:
 - end: 8 PM
   start: 6:30 PM
-  talks: []
+  talks: 
   - authors: (for those staying at Chaminade)
   title: Dinner 
- # location: TBA
- end: 6:30 PM
-  start: 8 PM
-  talks:
-  - authors:
-  title: Welcome reception (Sponsored Exclusively by Google Cloud Platform)
  # location: TBA
 day1:
 - end: 8:45 AM
