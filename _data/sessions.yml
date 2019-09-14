@@ -32,7 +32,7 @@ day1:
 - end: 11:00 AM
   start: 10:30 AM
   talks: 
-  - authors: Sponsored Exclusively by Microsoft
+  - authors: Sponsored by Microsoft
   title: Break
 - end: 12:30 PM
   start: 11:00 AM
@@ -76,85 +76,45 @@ day1:
   title: Dinner 
  # location: TBA 
 day2:
-- end: 9:00 AM
+- end: 8:20 AM
   start: 7:30 AM
-  talks: []
+  talks: 
+  - authors: (only for attendees staying at Chaminade)
   title: Breakfast
-  location: Foyer
-- end: 10:00 AM
-  start: 9:00 AM
-  talks:
-  - authors:
-    - 'John Wilkes, Principal Software Engineer, Google'
-  title: 'Keynote 1: Building the Warehouse Scale Computer'
-- end: 10:30 AM
-  start: 10:00 AM
+  #location: Foyer
+- end: 9 AM
+  start: 8:20 AM
   talks: []
-  title: Break
-- end: 12:10 PM
+  title: Keynote 2
+- end: 10:30 AM
+  start: 9 AM
+  talks: []
+  title: Session 5
+- end: 11 PM
   start: 10:30 AM
-  talks:
-  - authors:
-    - Faria Kalim (University of Illinois, Urbana Champaign)
-    - Le Xu (University of Illinois, Urbana Champaign)
-    - Sharanya Bathey (Amazon)
-    - Richa Meherwal (phData Inc.)
-    - Indranil Gupta (University of Illinois, Urbana Champaign)
-    title: 'Henge: Intent-driven Multi-Tenant Stream Processing'
-    slides: 'slides/socc18-slides-kalim.pdf'
-    #url: 'https://dl.acm.org/authorize?N46740'
-  - authors:
-    - Lixiang Ao (UCSD)
-    - Liz Izhikevich (UCSD)
-    - Geoffrey M. Voelker (UCSD)
-    - George Porter (UCSD)
-    title: 'Sprocket: A Serverless Video Processing Framework for the Cloud'
-    slides: 'slides/socc18-slides-ao.pdf'
-    #url: 'https://dl.acm.org/authorize?N46859'
-  - authors:
-    - Youfu Li (University of California, Los Angeles)
-    - Mingda Li (University of California, Los Angeles)
-    - Ling Ding (University of California, Los Angeles)
-    - Matteo Interlandi (Microsoft, Inc.)
-    title: 'RIOS: Runtime Integrated Optimizer for Spark'
-    slides: 'slides/socc18-slides-li.pdf'
-    #url: 'https://dl.acm.org/authorize?N46880'
-  - authors:
-    - Andreas Kunft (Technische Universität Berlin)
-    - Lukas Stadler (Oracle Labs)
-    - Daniele Bonetta (Oracle Labs)
-    - Cosmin Basca (Oracle Labs)
-    - Jens Meiners (Technische Universität Berlin)
-    - Sebastian Breß (DFKI GmbH) 
-    - Tilmann Rabl (Technische Universität Berlin)
-    - Juan Fumero (The University of Manchester) 
-    - Volker Markl (Technische Universität Berlin)
-    title: 'ScootR: Scaling R Dataframes on Dataflow Systems'
-    slides: 'slides/socc18-slides-kunft.pdf'
-    #url: 'https://dl.acm.org/authorize?N46743'
-  - authors:
-    - Feng Sheng (Huazhong University of Science and Technology)
-    - Qiang Cao (Huazhong University of Science and Technology)
-    title: 'GraPU: Accelerate Real-Time Graph Analysis through Preprocessing Buffered Updates'	
-    #slides: 'slides/socc18-slides-sheng.pdf'
-    #url: 'https://dl.acm.org/authorize?N46851'
-  title: 'Session 6 (Cloud Compute Engines)'
-  chair: 'Chris Rossbach'
-- end: 1:30 PM
-  start: 12:10 PM
+   talks: 
+  - authors: Sponsored by Amazon Web Services  
+  title: Break
+- end : 12:30 PM
+  start: 11 PM
+  talks: []
+  title: Session 6
+- end: 1:20 PM
+  start: 12:30 PM
   talks: []
   title: Lunch
-  location: Garden Patio and Lawn
-- end: 2:30 PM
-  start: 1:30 PM
-  talks:
-  - authors:
-    - 'Michael J. Carey, Professor of Information and Computer Sciences at the UC Irvine'
-  title: 'Keynote 2: Big NoSQL Data, Apache AsterixDB, and Beyond'
-- end: 2:40 PM
-  start: 2:30 PM
+- end: 2:10 PM
+  start: 1:20 PM
   talks: []
-  title: Mini-break 
+  title: Poster Session 2
+- end: 2:50 PM
+  start: 2:10 PM
+  talks: []
+  title: Keynote 3
+- end: 3 PM
+  start: 2:50 PM
+  talks: []
+  title: Mini Break 
 - end: 4:00 PM
   start: 2:40 PM
   talks:
