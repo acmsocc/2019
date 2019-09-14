@@ -28,8 +28,7 @@ day1:
 - end: 10:30 AM
   start: 9:00 AM
   talks: []
-  title: 'Session 1
-  #chair: 'Iqbal Mohomed'
+  title: Session 1
 - end: 10:50 AM
   start: 10:20 AM
   talks: []
