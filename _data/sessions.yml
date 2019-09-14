@@ -2,7 +2,7 @@ day0:
 - end: 8 PM
   start: 6:30 PM
   talks: 
-  - authors: (only for attendees staying at Chaminade)
+  - authors: (for attendees staying at Chaminade)
   title: Dinner 
  # location: TBA  
 - end: []
@@ -14,7 +14,7 @@ day1:
 - end: 8:20 AM
   start: 7:30 AM
   talks: 
-  - authors: (only for attendees staying at Chaminade)
+  - authors: (for attendees staying at Chaminade)
   title: Breakfast
   #location: Foyer
 - end: 8:35 AM
@@ -68,20 +68,17 @@ day1:
   start: 5 PM
   talks: []
   title: Session 4 
-  #chair: 'Shahram Ghandeharizadeh'
 - end: 8 PM
   start: 6:30 PM
   talks: 
-  - authors: (only for attendees staying at Chaminade)
-  title: Dinner 
- # location: TBA 
+  - authors: (for attendees staying at Chaminade)
+  title: Dinner  
 day2:
 - end: 8:20 AM
   start: 7:30 AM
   talks: 
-  - authors: (only for attendees staying at Chaminade)
+  - authors: (for attendees staying at Chaminade)
   title: Breakfast
-  #location: Foyer
 - end: 9 AM
   start: 8:20 AM
   talks: []
@@ -115,99 +112,22 @@ day2:
   start: 2:50 PM
   talks: []
   title: Mini-break 
-- end: 4:00 PM
-  start: 2:40 PM
-  talks:
-  - authors:
-    - Ting Dai (North Carolina State University)
-    - Jingzhu He (North Carolina State University) 
-    - Xiaohui Gu (North Carolina State University)
-    - Shan Lu (University of Chicago)
-    - Peipei Wang (North Carolina State University)
-    title: 'DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems'
-    #slides: 'slides/socc18-slides-dai.pdf'
-    #url: 'https://dl.acm.org/authorize?N46887'
-  - authors:
-    - Pedro Las-Casas (Universidade Federal de Minas Gerais)
-    - Jonathan Mace (Brown University) 
-    - Dorgival Guedes (Universidade Federal de Minas Gerais)
-    - Rodrigo Fonseca (Brown University)
-    title: 'Weighted Sampling of Execution Traces: Capturing More Needles and Less Hay'
-    #slides: 'slides/socc18-slides-las-casas.pdf'
-    #url: 'https://dl.acm.org/authorize?N46874'
-  - authors:
-    - Michael Whittaker (UC Berkeley)
-    - Cristina Teodoropol (UC Berkeley) 
-    - Peter Alvaro (UC Santa Cruz)
-    - Joseph M. Hellerstein (UC Berkeley)
-    title: 'Debugging Distributed Systems with Why-Across-Time Provenance'
-    slides: 'slides/socc18-slides-whittaker.pdf'
-    #url: 'https://dl.acm.org/authorize?N46850'
-  - authors:
-    - Qixiao Liu (Shenzhen Institute of Advanced Technology, Chinese Academy of Science)
-    - Zhibin Yu (Shenzhen Institute of Advanced Technology, Chinese Academy of Science)
-    title: 'The Elasticity and Plasticity in Semi-Containerized Co-locating Cloud Workload: a View from Alibaba Trace'
-    slides: 'slides/socc18-slides-liu-qixiao.pdf'
-    #url: 'https://dl.acm.org/authorize?N46852'
-  title: Session 7 (Visibility and Debugging)
-  chair: 'Tyson Condie'
 - end: 4:30 PM
-  start: 4:00 PM
+  start: 3 PM
   talks: []
-  title: Mini-break
-- end: 5:50 PM
+  title: Session 7
+- end: 5 PM
   start: 4:30 PM
-  talks:
-  - authors:
-    - Hyunwook Baek (University of Utah)
-    - Eric Eide (University of Utah)
-    - Robert Ricci (University of Utah)
-    - Jacobus Van der Merwe (University of Utah)
-    title: 'I Heard It through the Firewall: Exploiting Cloud Management Services as an Information Leakage Channel'
-    slides: 'slides/socc18-slides-baek.pdf'
-    #url: 'https://dl.acm.org/authorize?N46741'
-  - authors:
-    - Ian A. Kash (University of Illinois at Chicago)
-    - Greg O'Shea (Microsoft Research)
-    - Stavros Volos (Microsoft Research)
-    title: 'DC-DRF: Adaptive Multi-Resource Sharing at Public Cloud Scale'
-    slides: 'slides/socc18-slides-kash.pdf'
-    #url: 'https://dl.acm.org/authorize?N46865'
-  - authors:
-    - Kirill L. Bogdanov (KTH Royal Institute of Technology)
-    - Waleed Reda (Universite catholique de Louvain / KTH Royal Institute of Technology)
-    - Gerald Q. Maguire Jr. (KTH Royal Institute of Technology)
-    - Dejan Kostic (KTH Royal Institute of Technology)
-    - Marco Canini (KAUST)
-    title: 'Fast and Accurate Load Balancing for Geo-Distributed Storage Systems'
-    slides: 'slides/socc18-slides-bogdanov.pdf'
-    #url: 'https://dl.acm.org/authorize?N46867'
-  - authors:
-    - Hyuk-Jin Jeong (Seoul National University)
-    - Hyeon-Jae Lee (Seoul National University)
-    - Chang Hyun Shin (Seoul National University)
-    - Soo-Mook Moon (Seoul National University)
-    title: 'IONN: Incremental Offloading of Neural Network Computations from Mobile Devices to Edge Servers'
-    #slides: 'slides/socc18-slides-jeong.pdf'
-    #url: 'https://dl.acm.org/authorize?N46867'
-  title: Session 8 (Cloud Resource Management)
-  chair: 'Jayneel Gandhi'
-- end: 6:00 PM
-  start: 5:50 PM
   talks: []
-  title: Mini-break  
-- end: 7:30 PM
-  start: 6:00 PM
-  talks: []
-  title: Poster session II  
-  url: "poster-schedule.html"
-  location: Shearwater 4-5
-- end: 9:00 PM
-  start: 7:30 PM
-  talks: []
-  title: Conference Banquet
-  location: Shearwater 3-4-5
-
+  title: Break 
+- end: 6:30 PM
+  start: 5 PM
+  title: Session 8
+- end: 8:00 PM
+  start: 6:30 PM
+  talks: 
+  - authors: (for attendees staying at Chaminade)
+  title: Dinner
 day3:
 - end: 9:00 AM
   start: 7:30 AM
