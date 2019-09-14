@@ -11,51 +11,25 @@ day0:
   - authors: Sponsored Exclusively by Google Cloud Platform
   title: Welcome Reception 
 day1:
-- end: 8:45 AM
+- end: 8:20 AM
   start: 7:30 AM
-  talks: []
+  talks: 
+  - authors: (only for attendees staying at Chaminade)
   title: Breakfast
-  location: Foyer
-- end: 9:00 AM
-  start: 8:45 AM
+  #location: Foyer
+- end: 8:35 AM
+  start: 8:20 AM
   talks: []
-  title: Introductory remarks
-- end: 10:20 AM
+  title: Chairs' Welcome 
+- end: 9 AM
+  start: 8:35 AM
+  talks: []
+  title: 10yr Perspective 
+- end: 10:30 AM
   start: 9:00 AM
-  talks:
-  - authors:
-    - Pengtao Xie (Carnegie Mellon University)
-    - Jin Kyu Kim (Carnegie Mellon University)
-    - Qirong Ho (Petuum Inc.)
-    - Yaoliang Yu (University of Waterloo)
-    - Eric P. Xing (Petuum Inc.)
-    title: 'Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design'
-    slides: 'slides/socc18-slides-xie.pdf'
-  - authors:
-    - Hao Wang (University of Toronto)
-    - Di Niu (University of Alberta)
-    - Baochun Li (University of Toronto)
-    title: 'Dynamic and Decentralized Global Analytics via Machine Learning'
-    slides: 'slides/socc18-slides-wang-hao.pdf'
-    #url: 'https://dl.acm.org/authorize?N46885'
-  - authors:
-    - Huangshi Tian (Hong Kong University of Science and Technology) 
-    - Minchen Yu (Hong Kong University of Science and Technology) 
-    - Wei Wang (Hong Kong University of Science and Technology)
-    title: 'Continuum: A Platform for Cost-Aware, Low-Latency Continual Learning'
-    slides: 'slides/socc18-slides-tian.pdf'
-    #url: 'https://dl.acm.org/authorize?N46879'
-  - authors:
-    - Liang Luo (University of Washington) 
-    - Jacob Nelson (Microsoft Research) 
-    - Luis Ceze (University of Washington)
-    - Amar Phanishayee (Microsoft Research) 
-    - Arvind Krishnamurthy (University of Washington)
-    title: 'Parameter Hub: a Rack-Scale Parameter Server for Distributed Deep Neural Network Training'
-    slides: 'slides/socc18-slides-luo.pdf'
-    #url: 'https://dl.acm.org/authorize?N46854'
-  title: 'Session 1 (Machine Learning)'
-  chair: 'Iqbal Mohomed'
+  talks: []
+  title: 'Session 1
+  #chair: 'Iqbal Mohomed'
 - end: 10:50 AM
   start: 10:20 AM
   talks: []
