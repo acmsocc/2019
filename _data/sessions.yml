@@ -4,7 +4,7 @@ day0:
   talks:
   - authors:
   title: Welcome Reception
-  location: Shearwater Terrace
+ # location: TBA
 day1:
 - end: 8:45 AM
   start: 7:30 AM
