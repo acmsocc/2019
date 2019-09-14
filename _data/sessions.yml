@@ -7,7 +7,8 @@ day0:
  # location: TBA  
 - end: []
   start: 8 PM
-  talks: Sponsored Exclusively by Google Cloud Platform
+  talks: 
+  - authors: Sponsored Exclusively by Google Cloud Platform
   title: Welcome Reception 
 day1:
 - end: 8:45 AM
