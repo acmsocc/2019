@@ -8,7 +8,7 @@ day0:
 - end: []
   start: 8 PM
   talks: 
-  - authors: Sponsored Exclusively by Google Cloud Platform
+  - authors: Sponsored by Google Cloud Platform
   title: Welcome Reception 
 day1:
 - end: 8:20 AM
@@ -73,6 +73,10 @@ day1:
   talks: 
   - authors: (for attendees staying at Chaminade)
   title: Dinner  
+- end: []
+  start: 8 PM
+  talks: []
+  title: Gong show, drinks, & anniversary cake 
 day2:
 - end: 8:20 AM
   start: 7:30 AM
