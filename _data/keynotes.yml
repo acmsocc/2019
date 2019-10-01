@@ -1,4 +1,4 @@
-wilkes:
+matei:
   name: 'Matei Zaharia (Stanford University )'
   title: 'Lessons from Large-Scale Software as a Service at Databricks'
   abstract: "The cloud has become one of the most attractive ways for enterprises to purchase software, but 
@@ -21,7 +21,7 @@ wilkes:
   DAWN Lab focusing on systems for ML at Stanford. Matei’s research was recognized through the 2014 ACM Doctoral 
   Dissertation Award for the best PhD dissertation in computer science, an NSF CAREER Award, and the US Presidential Early Career Award for Scientists and Engineers (PECASE)."
  
-carey:
+raluca:
   name: 'Raluca Ada Popa (UC Berkeley)'
   title: 'Securing data in compromised clouds'
   abstract: "Clouds store a lot of sensitive data. Traditional cloud security relies on building software walls around 
