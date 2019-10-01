@@ -1,5 +1,5 @@
 matei:
-  name: 'Matei Zaharia (Stanford University )'
+  name: 'Matei Zaharia (Stanford University)'
   title: 'Lessons from Large-Scale Software as a Service at Databricks'
   abstract: "The cloud has become one of the most attractive ways for enterprises to purchase software, but 
   it requires building products in a very different way from traditional software, which has not been heavily 
