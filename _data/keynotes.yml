@@ -1,37 +1,41 @@
 wilkes:
-  name: 'John Wilkes (Google)'
-  title: 'Building the warehouse scale computer'
-  abstract: "Imagine some product team inside Google wants 100,000 CPU cores + RAM + flash + accelerators + disk in a couple of months. 
-  We need to decide where to put them, when; whether to deploy new machines, or re-purpose/reconfigure old ones; ensure we have 
-  enough power, cooling, networking, physical racks, data centers and (over longer a time-frame) wind power; cope with variances 
-  in delivery times from supply logistics hiccups; do multi-year cost-optimal placement+decisions in the face of literally 
-  thousands of different machine configurations; keep track of parts; schedule repairs, upgrades, and installations; and 
-  generally make all this happen behind the scenes at minimum cost. And then after breakfast, we get to dynamically allocate resources 
-  (on the small-minutes timescale) to the product groups that need them most urgently, accurately reflecting the cost 
-  (opex/capex) of all the machines and infrastructure we just deployed, and monitoring and controlling the datacenter power 
-  and cooling systems to achieve minimum overheads - even as we replace all of these on the fly. This talk will highlight some of 
-  the exciting problems we're working on inside Google to ensure we can supply the needs of an organization that is experiencing 
-  (literally) exponential growth in computing capacity."
-  bio1: "John Wilkes has been at Google since 2008, where he is working on automation for building warehouse scale computers. 
-  Before that, he spent a long time at HP Labs, becoming an HP and ACM Fellow in 2002.  He is interested in far too many 
-  aspects of distributed systems, but a recurring theme has been technologies that allow systems to manage themselves. 
-  In his spare time he continues, stubbornly, trying to learn how to blow glass."
+  name: 'Matei Zaharia (Stanford University )'
+  title: 'Lessons from Large-Scale Software as a Service at Databricks'
+  abstract: "The cloud has become one of the most attractive ways for enterprises to purchase software, but 
+  it requires building products in a very different way from traditional software, which has not been heavily 
+  studied in research. I will explain some of these challenges based on my experience at Databricks, a startup that 
+  provides a data analytics platform as a service on AWS and Azure. Databricks manages millions of VMs per day to run 
+  data engineering and machine learning workloads using Apache Spark, TensorFlow, Python and other software for thousands 
+  of customers. Two main challenges arise in this context: (1) building a reliable, scalable control plane that can manage 
+  thousands of customers at once and (2) adapting the data processing software itself (e.g. Apache Spark) for an elastic 
+  cloud environment (for instance, autoscaling instead of assuming static clusters). These challenges are especially 
+  significant for data analytics workloads whose users constantly push boundaries in terms of scale (e.g. number of VMs used, 
+  data size, metadata size, number of concurrent users, etc). I’ll describe some of the common challenges that our new 
+  services face and some of the main ways that Databricks has extended and modified open source analytics software for the 
+  cloud environment (e.g., designing an autoscaling engine for 
+  Apache Spark and creating a transactional storage layer on top of S3 in the Delta Lake open source product)."
+  bio1: "Matei Zaharia is an Assistant Professor of Computer Science at Stanford University and Chief Technologist at 
+  Databricks. He started the Apache Spark project during his PhD at UC Berkeley in 2009, and has worked broadly on 
+  datacenter systems, co-starting the Apache Mesos project and contributing as a committer on Apache Hadoop. 
+  Today, Matei tech-leads the MLflow open source machine learning platform at Databricks and is a PI in the 
+  DAWN Lab focusing on systems for ML at Stanford. Matei’s research was recognized through the 2014 ACM Doctoral 
+  Dissertation Award for the best PhD dissertation in computer science, an NSF CAREER Award, and the US Presidential Early Career Award for Scientists and Engineers (PECASE)."
  
 carey:
-  name: 'Michael J. Carey (UC Irvine)'
-  title: 'Big NoSQL Data, Apache AsterixDB, and Beyond'
-  abstract: "Big Data comes in many shapes and sizes. Today's varieties of Big Data include Big Tabular Data (e.g., large enterprise-style relational data sets), Big Graph Data (e.g., large social networks), Big Textual Data (e.g., large collections of blogs or messages), and of course Big Semistructured Data (e.g., large collections of JSON objects) — a.k.a. Big NoSQL Data. This keynote will examine the NoSQL faction of the Big Data movement, describing the nature of this data and then surveying some of the platforms for storing and querying such data today — a.k.a. document database systems. To make things concrete, the talk will include a deeper look at Apache AsterixDB, an open-source Big Data Management System that originated from several University of California campuses and provides an excellent foundation for managing NoSQL data. Details covered will include its underlying storage technologies and the sorts of schema-related, ingestion-related, and query-related features that more and more such systems are beginning to offer. 
-  The talk will also discuss our current efforts to move from our current world of passive Big Data platforms to a new 'BAD' (Big Active Data) world.
-  The keynote will close with an enumeration of some of the open technical challenges in the NoSQL data management space."
-  bio1: "Michael J. Carey received his B.S. and M.S. degrees from Carnegie-Mellon University and his Ph.D. from the 
-  University of California, Berkeley, in 1979, 1981, and 1983, respectively. He is currently a Bren Professor of Information and Computer Sciences at the University of California, Irvine (UCI) and a Consulting Architect at Couchbase, Inc. Before joining UCI in 2008, Dr. Carey worked at BEA Systems for seven years and led the development of BEA's AquaLogic Data Services Platform product for virtual data integration. He also spent a dozen years teaching at the University of Wisconsin-Madison, five years at the IBM Almaden Research Center working on object-relational databases, and a year and a half at e-commerce platform startup Propel Software during the infamous 2000-2001 Internet bubble. Dr. Carey is an ACM Fellow, an IEEE Fellow, a member of the National Academy of Engineering, and a recipient of the ACM SIGMOD E.F. Codd Innovations Award. His current interests all center around data-intensive computing and scalable data management (a.k.a. Big Data)."
-#  bio1: "Gustavo Alonso is a Professor of Computer Science at ETH Zürich. He studied telecommunications -electrical engineering- at the 
-#  Madrid Technical University (ETSIT, Politécnica de Madrid). As a Fulbright scholar, he completed an M.S. and Ph.D. in Computer Science 
-#  at UC Santa Barbara. After graduating from Santa Barbara, he worked at the IBM Almaden Research Center before joining ETHZ. 
-#  His research interests encompass almost all aspects of systems, from design to run time. He works on distributed systems, 
-#  data processing, and system aspects of programming languages. Most of his research these days is related to multi-core architectures, 
-#  data centers, FPGAs, and hardware acceleration. Gustavo has received numerous awards for his research, including three Test-of-Time 
-#  awards for work in databases, programming languages, and systems. He is a Fellow of the ACM and of the IEEE."
+  name: 'Raluca Ada Popa (UC Berkeley)'
+  title: 'Securing data in compromised clouds'
+  abstract: "Clouds store a lot of sensitive data. Traditional cloud security relies on building software walls around 
+  sensitive data to prevent attackers from breaking in. Nevertheless, attackers always manage to break in because software 
+  is complex and thus cannot be exploit-free. A line of cryptographic systems, however, departs from this approach, and 
+  provides security guarantees even when attackers have compromised the cloud. In this talk, I will survey a decade of such 
+  cryptographic systems, highlighting 
+  he main design principles and lessons learned, and pointing to the state-of-the-art systems that one can use today."
+  bio1: "Raluca Ada Popa is an assistant professor of computer science at UC Berkeley working in computer security, systems, 
+  and applied cryptography. She is a co-founder and co-director of the RISELab at UC Berkeley, as well as a co-founder and 
+  CTO of a cybersecurity startup called PreVeil. Raluca has received her PhD in computer science as well as her Masters and 
+  two BS degrees, in computer science and in mathematics, from MIT. She is the recipient of a Sloan Foundation Fellowship 
+  award, Technology Review 35 Innovators under 35, Microsoft Research Faculty Fellowship, George 
+  M. Sprowls Award for best MIT CS doctoral thesis, and a Johnson award for best CS Masters of Engineering thesis from MIT."
   
   
   
