@@ -37,7 +37,7 @@ raluca:
   award, Technology Review 35 Innovators under 35, Microsoft Research Faculty Fellowship, George 
   M. Sprowls Award for best MIT CS doctoral thesis, and a Johnson award for best CS Masters of Engineering thesis from MIT."
   
-   sarah:
+sarah:
   name: 'Sarah Guo (Greylock Partners)'
   title: 'Startups that stand out from the cloud'
   abstract: "The transition of traditional IT to cloud architectures and technologies is a trillion-dollar commercial 
@@ -46,7 +46,15 @@ raluca:
   advantages do tiny teams have, and what does leading venture capital firm and cloud investor Greylock Partners look for? 
   This talk will orient an academic audience in the considerations of early technology company-building, outline areas of 
   investing interest, and discuss some common pitfalls for startups emerging from academia."
-  bio1: "Sarah Guo is a General Partner at early-stage venture capital firm Greylock Partners, where her mission is to partner with founders to productize disruptive ideas, get advantaged distribution, and build dominant businesses. She focuses on opportunities in B2B applications and infrastructure, cyber security, artificial intelligence and the intersection of software and healthcare. She led or co-led Greylock’s investments in Awake Security, Cleo, Demisto, Obsidian, Sqreen and Utmost. She also works closely with Coda and Figma. Prior to joining Greylock, Sarah was at Goldman Sachs, where she invested in and advised growth-stage technology startups including Dropbox and Workday. She is an advocate for STEM education for women and the underserved. She taught Marketing in the Wharton Undergraduate Program. Sarah has four degrees from the Wharton School and the University of Pennsylvania. She is part of Linkedin’s Next Wave, Forbes’ 30 Under 30, and the Midas Brink List."
+  bio1: "Sarah Guo is a General Partner at early-stage venture capital firm Greylock Partners, where her mission is to partner 
+  with founders to productize disruptive ideas, get advantaged distribution, and build dominant businesses. 
+  She focuses on opportunities in B2B applications and infrastructure, cyber security, artificial intelligence and the 
+  intersection of software and healthcare. She led or co-led Greylock’s investments in Awake Security, Cleo, Demisto, Obsidian, 
+  Sqreen and Utmost. She also works closely with Coda and Figma. Prior to joining Greylock, Sarah was at Goldman Sachs, 
+  where she invested in and advised growth-stage technology startups including Dropbox and Workday. She is an advocate 
+  for STEM education for women and the underserved. She taught Marketing in the Wharton Undergraduate Program. 
+  Sarah has four degrees from the Wharton School and the University of Pennsylvania. 
+  She is part of Linkedin’s Next Wave, Forbes’ 30 Under 30, and the Midas Brink List."
   
   
   
