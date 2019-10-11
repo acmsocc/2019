@@ -74,7 +74,15 @@ day1:
   title: Mini-break 
 - end: 4:30 PM
   start: 3:00 PM
-  talks: []
+  talks: 
+  - authors: 
+    title: 'Hotspot Mitigations for the Masses'
+  - authors: 
+    title: 'DCUDA: Dynamic GPU Scheduling with Live Migration Support'
+  - authors: 
+    title: 'BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud'
+  - authors: 
+    title: 'Characterizing and Synthesizing Task Dependencies of Data-Parallel Jobs in Alibaba Cloud'
   title: Session 3 (Scheduling and Resource Allocation 1 ) 
 - end: 5 PM
   start: 4:30 PM
@@ -113,7 +121,15 @@ day2:
   title: Keynote 2 - Sarah Guo (Greylock Partners)
 - end: 10:30 AM
   start: 9 AM
-  talks: []
+  talks:
+  - authors: 
+    title: 'Perceptual Compression for Video Storage and Processing Systems'
+  - authors: 
+    title: 'pRedis: Penalty and Locality Aware Memory Allocation in Redis'
+  - authors:
+    title: 'Acorn: Aggressive Result Caching in Distributed Data Processing Frameworks'
+  - authors: 
+    title: 'RapidCDC: Leveraging Duplicate Locality to Accelerate Chunking in CDC-based Deduplication Systems'
   title: Session 5 (Deduplication, Compression, Caching)
 - end: 11 PM
   start: 10:30 AM
