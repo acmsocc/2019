@@ -184,9 +184,9 @@ day2:
   - authors: 
     title: 'HP-Mapper: A High Performance Storage Driver for Docker Containers'
   - authors: 
-    title: 'Composing SDN Controller Enhancements with Mozart'
+    title: 'Software Data Planes: You Cannot Always Spin to Win'     
   - authors: 
-    title: 'Software Data Planes: You Cannot Always Spin to Win'
+    title: 'Composing SDN Controller Enhancements with Mozart'
   - authors: 
     title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
   title: Session 8 (Performance)
