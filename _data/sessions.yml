@@ -41,7 +41,7 @@ day1:
 - end: 1:20 PM
   start: 12:30 PM
   talks: []
-  title: Lunch
+  title: Lunch (for all attendees)
   #location: Garden Patio and Lawn
 - end: 2:10 PM
   start: 1:20 PM
@@ -51,7 +51,7 @@ day1:
 - end: 2:50 PM
   start: 2:10 PM
   talks: []
-  title: Keynote 1 
+  title: Keynote 1 - Matei Zaharia (Stanford, Databricks) 
 - end: 3:00 PM
   start: 2:50 PM
   talks: []
@@ -86,7 +86,7 @@ day2:
 - end: 9 AM
   start: 8:20 AM
   talks: []
-  title: Keynote 2
+  title: Keynote 2 - Sarah Guo (Greylock Partners)
 - end: 10:30 AM
   start: 9 AM
   talks: []
@@ -103,7 +103,7 @@ day2:
 - end: 1:20 PM
   start: 12:30 PM
   talks: []
-  title: Lunch
+  title: Lunch (for all attendees)
 - end: 2:10 PM
   start: 1:20 PM
   talks: []
@@ -111,7 +111,7 @@ day2:
 - end: 2:50 PM
   start: 2:10 PM
   talks: []
-  title: Keynote 3
+  title: Keynote 3 - Raluca Popa (UC Berkeley)
 - end: 3 PM
   start: 2:50 PM
   talks: []
@@ -145,7 +145,7 @@ day3:
 - end: 9 AM
   start: 8:20 AM
   talks: []
-  title: Award Session
+  title: Award Session + Notes from Brian Cooper (Google)
 - end: 10:30 AM
   start: 9 AM
   talks: []
@@ -161,4 +161,4 @@ day3:
 - end: 2 PM
   start: 12:30 PM
   talks: []
-  title: Lunch
+  title: Lunch (for all attendees)
