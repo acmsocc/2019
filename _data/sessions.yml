@@ -169,10 +169,10 @@ day2:
   talks: 
   - authors: 
     title: 'Repeatable Oblivious Shuffling of Large Outsourced Data Blocks'
-  - authors: 
-    title: 'WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems'
-  - authors: 
-    title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
+ # - authors: 
+  #  title: 'WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems'
+  #- authors: 
+   # title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
   title: Session 7 (Security, Verifiability, Performance)
 - end: 5 PM
   start: 4:30 PM
