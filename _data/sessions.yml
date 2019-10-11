@@ -35,10 +35,24 @@ day1:
     - Ryan Stutsman (University of Utah)
     title: 'Narrowing the Gap Between Serverless and its State with Storage Functions'						
   - authors: 
+    - Joao Carreira (UC Berkeley)
+    - Pedro Fonseca (Purdue University)
+    - Alexey Tumanov
+    - Andrew Zhang
+    - Randy Katz (UC Berkeley)
     title: 'Cirrus: a Serverless Framework for End-to-end ML Workflows' 					
   - authors: 
+    - Harshit Daga (Georgia Institute of Technology)
+    - Patrick Nicholson (Nokia Bell Labs)
+    - Ada Gavrilovska (Georgia Institute of Technology)
+    - Diego Lugones (Nokia Bell Labs)
     title: 'Cartel: A System for Collaborative Transfer Learning at the Edge'							
   - authors: 
+    - Hyuk-Jin Jeong
+    - Chang Hyun Shin
+    - Kwang Yong Shin
+    - Hyeon-Jae Lee
+    - Soo-Mook Moon (Seoul National University)
     title: 'Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration'							
   title: Session 1 (Edge Computing and Serverless Computing)
 - end: 11:00 AM
@@ -50,12 +64,55 @@ day1:
   start: 11:00 AM
   talks: 
   - authors: 
+    - Jinquan Dai (Intel)
+    - Yiheng Wang (Tencent)
+    - Xin Qiu (Intel)
+    - Ding Ding (Intel)
+    - Yao Zhang (Sequoia Capital)
+    - Yanzhang Wang (Intel)
+    - Xianyan Jia (Alibaba)
+    - Li Zhang (Intel)
+    - Yan Wan (Alibaba)
+    - Zhichao Li (Intel)
+    - Jiao Wang (Intel)
+    - Shengsheng Huang (Intel)
+    - Zhongyuan Wu (Intel)
+    - Yang Wang (Intel)
+    - Yuhao Yang (Intel)
+    - Bowen She (Intel)
+    - Dongjie Shi (Intel)
+    - Qi Lu (Intel)
+    - Kai Huang (Intel)
+    - Guoqiong Song (Intel)
     title: 'BigDL: A Distributed Deep Learning Framework for Big Data'
   - authors: 
+    - Richard Liaw
+    - Romil Bhardwaj
+    - Lisa Dunlap
+    - Yitian Zou
+    - Alexey Tumanov
+    - Joseph Gonzalez
+    - Ion Stoica (UC Berkeley)
     title: 'HyperSched: Dynamic Resource Reallocation for Model Development on a Deadline'
   - authors: 
+    - Zachary Zimmerman
+    - Kaveh Kamgar
+    - Nader Shakibay Senobari
+    - Yan Zhu
+    - Brian Crites
+    - Gareth Funning
+    - Philip Brisk
+    - Eamonn Keogh (University of California, Riverside)
     title: 'Matrix Profile XIV: Scaling Time Series Motif Discovery with GPUs to Break a Quintillion Pairwise Comparisons a Day and Beyond'
-  - authors: 
+  - authors:
+    - Hongzhi Chen
+    - Changji Li
+    - Juncheng Fang
+    - Chenghuan Huang
+    - James Cheng
+    - Jian Zhang
+    - Yifan Hou
+    - Xiao Yan (The Chinese University of Hong Kong)
     title: 'Grasper: A High Performance Distributed System for OLAP on Property Graphs'
   title: Session 2 (Systems for ML and Data Mining)
 - end: 1:20 PM
