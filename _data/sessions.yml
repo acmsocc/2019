@@ -138,7 +138,15 @@ day2:
   title: Break
 - end : 12:30 PM
   start: 11 AM
-  talks: []
+  talks: 
+  - authors: 
+    title: 'NEPTUNE: Scheduling Suspendable Tasks for Unified Stream/Batch Applications'
+  - authors: 
+    title: 'Pigeon: an Effective Distributed, Hierarchical Datacenter Job Scheduler'
+  - authors: 
+    title: 'Pufferfish: Container-driven Elastic Memory Management for Data-intensive Applications'
+  - authors: 
+    title: 'Scavenger: A Black-Box Batch Workload Resource Manager for Improving Utilization in Cloud Environments'
   title: Session 6 (Scheduling and Resource Allocation 2) 
 - end: 1:20 PM
   start: 12:30 PM
@@ -158,7 +166,13 @@ day2:
   title: Mini-break 
 - end: 4:30 PM
   start: 3 PM
-  talks: []
+  talks: 
+  - authors: 
+    title: 'Repeatable Oblivious Shuffling of Large Outsourced Data Blocks'
+  - authors: 
+    title: 'WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems'
+  - authors: 
+    title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
   title: Session 7 (Security, Verifiability, Performance)
 - end: 5 PM
   start: 4:30 PM
@@ -166,6 +180,15 @@ day2:
   title: Break 
 - end: 6:30 PM
   start: 5 PM
+  talks: 
+  - authors: 
+    title: 'HP-Mapper: A High Performance Storage Driver for Docker Containers'
+  - authors: 
+    title: 'Software Data Planes: You Can't Always Spin to Win'
+  - authors: 
+    title: 'Composing SDN Controller Enhancements with Mozart'
+  - authors: 
+    title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
   title: Session 8 (Performance)
 - end: 8:00 PM
   start: 6:30 PM
