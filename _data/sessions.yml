@@ -183,8 +183,8 @@ day2:
   talks:
   - authors: 
     title: 'HP-Mapper: A High Performance Storage Driver for Docker Containers'
-#  - authors: 
- #   title: 'Software Data Planes: You Can't Always Spin to Win'
+  - authors:
+    title: 'Software Data Planes: You Can't Always Spin to Win'
   - authors: 
     title: 'Composing SDN Controller Enhancements with Mozart'
   - authors: 
