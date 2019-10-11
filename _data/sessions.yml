@@ -169,10 +169,10 @@ day2:
   talks: 
   - authors: 
     title: 'Repeatable Oblivious Shuffling of Large Outsourced Data Blocks'
- # - authors: 
-  #  title: 'WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems'
-  #- authors: 
-   # title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
+  - authors: 
+    title: 'WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems'
+  - authors: 
+    title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
   title: Session 7 (Security, Verifiability, Performance)
 - end: 5 PM
   start: 4:30 PM
@@ -183,12 +183,12 @@ day2:
   talks:
   - authors: 
     title: 'HP-Mapper: A High Performance Storage Driver for Docker Containers'
-  - authors: 
-    title: 'Software Data Planes: You Can't Always Spin to Win'
-  - authors: 
-    title: 'Composing SDN Controller Enhancements with Mozart'
-  - authors: 
-    title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
+#  - authors: 
+ #   title: 'Software Data Planes: You Can't Always Spin to Win'
+ # - authors: 
+  #  title: 'Composing SDN Controller Enhancements with Mozart'
+  #- authors: 
+   # title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
   title: Session 8 (Performance)
 - end: 8:00 PM
   start: 6:30 PM
