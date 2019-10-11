@@ -30,6 +30,8 @@ day1:
   talks: 
   - authors:
     title: 'MME-FaaS Cloud-Native Control for Mobile Networks' 
+  - authors: 
+    title: 'Centralized Core-granular Scheduling for Serverless Functions'
   title: Session 1 (Edge Computing and Serverless Computing)
 - end: 11:00 AM
   start: 10:30 AM
