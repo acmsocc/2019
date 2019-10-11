@@ -185,8 +185,8 @@ day2:
     title: 'HP-Mapper: A High Performance Storage Driver for Docker Containers'
   - authors: 
     title: 'Composing SDN Controller Enhancements with Mozart'
-  - authors: 
-    title: 'Software Data Planes: You Can't Always Spin to Win'
+ # - authors: 
+ #   title: 'Software Data Planes: You Can't Always Spin to Win'
   - authors: 
     title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
   title: Session 8 (Performance)
@@ -211,11 +211,15 @@ day3:
   title: Award Session + Notes from Brian Cooper (Google)
 - end: 10:30 AM
   start: 9 AM
-  talks: []
-  #Coupling Decentralized Key-Value Stores with Erasure Coding
-#Agni: An Efficient Dual-access File System over Object Storage
-#Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud
-#Peregrine: Workload Optimization for Cloud Query Engines
+  talks: 
+  - authors: 
+    title: 'Coupling Decentralized Key-Value Stores with Erasure Coding'
+  - authors: 
+    title: 'Agni: An Efficient Dual-access File System over Object Storage'
+  - authors: 
+    title: 'Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud'
+  -authors: 
+    title: 'Peregrine: Workload Optimization for Cloud Query Engines'
   title: Session 9 (Storage) 
 - end: 11 AM
   start: 10:30 AM
@@ -223,7 +227,15 @@ day3:
   title: Break 
 - end: 12:30 PM
   start: 11 AM
-  talks: []
+  talks: 
+  - authors: 
+    title: 'Reverb: Speculative Debugging for Web Applications'
+  - authors: 
+    title: 'Griffon: Reasoning about Job Anomalies with Unlabeled Data in Cloud-based Platforms'
+  - authors: 
+    title: 'TagSniff: Simplified Big Data Debugging for Dataflow Jobs' 
+  - authors: 
+    title: 'PerfDebug: Performance Debugging of Computation Skew in Dataflow Systems'
   title: Session 10 (Debugging and Root Cause Analysis)
 - end: 2 PM
   start: 12:30 PM
