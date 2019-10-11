@@ -27,7 +27,15 @@ day1:
   title: 10yr Perspective - Raghu Ramakrishnan (Microsoft)
 - end: 10:30 AM
   start: 9:00 AM
-  talks: []
+  talks: 
+  - authors: 
+    title: 'Narrowing the Gap Between Serverless and its State with Storage Functions'						
+  - authors: 
+    title: 'Cirrus: a Serverless Framework for End-to-end ML Workflows' 					
+  - authors: 
+    title: 'Cartel: A System for Collaborative Transfer Learning at the Edge'							
+  - authors: 
+    title: 'Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration'							
   title: Session 1 (Edge Computing and Serverless Computing)
 - end: 11:00 AM
   start: 10:30 AM
