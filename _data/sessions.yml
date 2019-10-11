@@ -27,15 +27,7 @@ day1:
   title: 10yr Perspective - Raghu Ramakrishnan (Microsoft)
 - end: 10:30 AM
   start: 9:00 AM
-  talks: 
-  - authors:
-    title: 'MME-FaaS Cloud-Native Control for Mobile Networks' 
-  - authors: 
-    title: 'Centralized Core-granular Scheduling for Serverless Functions'
-  - authors: 
-    title: 'An Automated, Cross-layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications'
-  - authors: 
-    title: 'A System-Wide Debugging Assistant Powered by Natural Language Processing'
+  talks: []
   title: Session 1 (Edge Computing and Serverless Computing)
 - end: 11:00 AM
   start: 10:30 AM
@@ -74,7 +66,15 @@ day1:
   title: Break  
 - end: 6:30 PM
   start: 5 PM
-  talks: []
+  talks: 
+  - authors:
+    title: 'MME-FaaS Cloud-Native Control for Mobile Networks' 
+  - authors: 
+    title: 'Centralized Core-granular Scheduling for Serverless Functions'
+  - authors: 
+    title: 'An Automated, Cross-layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications'
+  - authors: 
+    title: 'A System-Wide Debugging Assistant Powered by Natural Language Processing'
   title: Session 4 (Vision)
 - end: 8 PM
   start: 6:30 PM
