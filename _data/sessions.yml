@@ -32,6 +32,10 @@ day1:
     title: 'MME-FaaS Cloud-Native Control for Mobile Networks' 
   - authors: 
     title: 'Centralized Core-granular Scheduling for Serverless Functions'
+  - authors: 
+    title: 'An Automated, Cross-layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications'
+  - authors: 
+    title: 'A System-Wide Debugging Assistant Powered by Natural Language Processing'
   title: Session 1 (Edge Computing and Serverless Computing)
 - end: 11:00 AM
   start: 10:30 AM
