@@ -212,6 +212,10 @@ day3:
 - end: 10:30 AM
   start: 9 AM
   talks: []
+  #Coupling Decentralized Key-Value Stores with Erasure Coding
+#Agni: An Efficient Dual-access File System over Object Storage
+#Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud
+#Peregrine: Workload Optimization for Cloud Query Engines
   title: Session 9 (Storage) 
 - end: 11 AM
   start: 10:30 AM
