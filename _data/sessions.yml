@@ -44,7 +44,15 @@ day1:
   title: Break
 - end: 12:30 PM
   start: 11:00 AM
-  talks: []
+  talks: 
+  - authors: 
+    title: 'BigDL: A Distributed Deep Learning Framework for Big Data'
+  - authors: 
+    title: 'HyperSched: Dynamic Resource Reallocation for Model Development on a Deadline'
+  - authors: 
+    title: 'Matrix Profile XIV: Scaling Time Series Motif Discovery with GPUs to Break a Quintillion Pairwise Comparisons a Day and Beyond'
+  - authors: 
+    title: 'Grasper: A High Performance Distributed System for OLAP on Property Graphs'
   title: Session 2 (Systems for ML and Data Mining)
 - end: 1:20 PM
   start: 12:30 PM
