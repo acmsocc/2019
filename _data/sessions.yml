@@ -28,7 +28,7 @@ day1:
 - end: 10:30 AM
   start: 9:00 AM
   talks: []
-  title: Session 1: Edge Computing and Serverless Computing
+  title: Session 1 (Edge Computing and Serverless Computing)
 - end: 11:00 AM
   start: 10:30 AM
   talks: 
@@ -37,7 +37,7 @@ day1:
 - end: 12:30 PM
   start: 11:00 AM
   talks: []
-  title: Session 2: Systems for ML and Data Mining
+  title: Session 2 (Systems for ML and Data Mining)
 - end: 1:20 PM
   start: 12:30 PM
   talks: []
@@ -59,7 +59,7 @@ day1:
 - end: 4:30 PM
   start: 3:00 PM
   talks: []
-  title: Session 3: Scheduling and Resource Allocation (1) 
+  title: Session 3 (Scheduling and Resource Allocation 1 ) 
 - end: 5 PM
   start: 4:30 PM
   talks: []
@@ -90,7 +90,7 @@ day2:
 - end: 10:30 AM
   start: 9 AM
   talks: []
-  title: Session 5: Deduplication, Compression, Caching
+  title: Session 5 (Deduplication, Compression, Caching)
 - end: 11 PM
   start: 10:30 AM
   talks: 
@@ -99,7 +99,7 @@ day2:
 - end : 12:30 PM
   start: 11 AM
   talks: []
-  title: Session 6: Scheduling and Resource Allocation (2) 
+  title: Session 6 (Scheduling and Resource Allocation 2) 
 - end: 1:20 PM
   start: 12:30 PM
   talks: []
@@ -119,7 +119,7 @@ day2:
 - end: 4:30 PM
   start: 3 PM
   talks: []
-  title: Session 7: Security, Verifiability, Performance
+  title: Session 7 (Security, Verifiability, Performance)
 - end: 5 PM
   start: 4:30 PM
   talks: []
@@ -149,7 +149,7 @@ day3:
 - end: 10:30 AM
   start: 9 AM
   talks: []
-  title: Session 9: Storage
+  title: Session 9 (Storage) 
 - end: 11 AM
   start: 10:30 AM
   talks: []
@@ -157,7 +157,7 @@ day3:
 - end: 12:30 PM
   start: 11 AM
   talks: []
-  title: Session 10: Debugging and Root Cause Analysis
+  title: Session 10 (Debugging and Root Cause Analysis)
 - end: 2 PM
   start: 12:30 PM
   talks: []
