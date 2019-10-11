@@ -107,7 +107,19 @@ day1:
   title: Dinner  
 - end: []
   start: 8 PM
-  talks: []
+  talks:
+  - authors: 
+    title: 'Vote Them Out: Detecting and Eliminating Byzantine Peers'
+  - authors: 
+    title: 'Practical Cloud Workloads for Serverless FaaS'
+  - authors: 
+    title: 'Accordia: Adaptive Cloud Configuration Optimization for Recurring Data-Intensive Applications'
+  - authors: 
+    title: 'SplitServe: Efficiently Splitting Complex Workloads Across FaaS and IaaS'
+  - authors: 
+    title: 'How to Cluster Mixed Geography Data in BigQuery'
+  - authors: 
+    title: 'Big Data Processing at Microsoft: Hyper Scale, Massive Complexity, and Minimal Cost'
   title: Gong show, drinks, & anniversary cake 
 day2:
 - end: 8:20 AM
