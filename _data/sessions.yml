@@ -29,6 +29,10 @@ day1:
   start: 9:00 AM
   talks: 
   - authors: 
+    - Tian Zhang 
+    - Dong Xie 
+    - Feifei Li 
+    - Ryan Stutsman (University of Utah)
     title: 'Narrowing the Gap Between Serverless and its State with Storage Functions'						
   - authors: 
     title: 'Cirrus: a Serverless Framework for End-to-end ML Workflows' 					
