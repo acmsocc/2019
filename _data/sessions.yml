@@ -137,12 +137,27 @@ day1:
   start: 3:00 PM
   talks: 
   - authors: 
+    - Fabien Hermenier
+    - Aditya Ramesh
+    - Abhinay Nagpal
+    - Himanshu Shukla
+    - Ramesh Chandra (Nutanix)
     title: 'Hotspot Mitigations for the Masses'
   - authors: 
+    - Fan Guo
+    - Yongkun Li (University of Science and Technology of China)
+    - John C. S. Lui (The Chinese University of Hong Kong)
+    - Yinlong Xu (University of Science and Technology of China)
     title: 'DCUDA: Dynamic GPU Scheduling with Live Migration Support'
   - authors: 
+    - Ataollah Fatahi Baarzi
+    - Timothy Zhu
+    - Bhuvan Urgaonkar (The Pennsylvania State University)
     title: 'BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud'
   - authors: 
+    - Huangshi Tian
+    - Yunchuan Zheng
+    - Wei Wang (HKUST)
     title: 'Characterizing and Synthesizing Task Dependencies of Data-Parallel Jobs in Alibaba Cloud'
   title: Session 3 (Scheduling and Resource Allocation 1 ) 
 - end: 5 PM
@@ -153,12 +168,28 @@ day1:
   start: 5 PM
   talks: 
   - authors:
+    - Sonika Jindal
+    - Robert Ricci (University of Utah)
     title: 'MME-FaaS Cloud-Native Control for Mobile Networks' 
   - authors: 
+    - Kostis Kaffes
+    - Neeraja Yadwadkar (Stanford University)
+    - Christos Kozyrakis (Stanford University, Google)
     title: 'Centralized Core-granular Scheduling for Serverless Functions'
   - authors: 
+    - Emre Ates (Boston University)
+    - Lily Sturmann (RedHat, Inc.)
+    - Mert Toslali
+    - Orran Krieger (Boston University)
+    - Richard Megginson (RedHat, Inc.)
+    - Ayse K. Coskun (Boston University)
+    - Raja R. Sambasivan (Tufts University)
     title: 'An Automated, Cross-layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications'
   - authors: 
+    - Pradeep Dogga (UCLA)
+    - Karthik Narasimhan (Princeton University)
+    - Anirudh Sivaraman (NYU)
+    - Ravi Netravali (UCLA)
     title: 'A System-Wide Debugging Assistant Powered by Natural Language Processing'
   title: Session 4 (Vision)
 - end: 8 PM
@@ -196,12 +227,28 @@ day2:
   start: 9 AM
   talks:
   - authors: 
+    - Amrita Mazumdar
+    - Brandon Haynes
+    - Magda Balazinska
+    - Luis Ceze
+    - Alvin Cheung
+    - Mark Oskin (University of Washington)
     title: 'Perceptual Compression for Video Storage and Processing Systems'
   - authors: 
+    - Cheng Pan
+    - Yingwei Luo
+    - Xiaolin Wang (Peking University)
+    - Zhenlin Wang (Michigan Tech)
     title: 'pRedis: Penalty and Locality Aware Memory Allocation in Redis'
   - authors:
+    - Lana Ramjit (UCLA)
+    - Matteo Interlandi (Microsoft)
+    - Eugene Wu (Columbia University)
+    - Ravi Netravali (UCLA)
     title: 'Acorn: Aggressive Result Caching in Distributed Data Processing Frameworks'
   - authors: 
+    - Fan Ni (University of Texas, Arlington)
+    - Song Jiang (University of Texas at Arlington)
     title: 'RapidCDC: Leveraging Duplicate Locality to Accelerate Chunking in CDC-based Deduplication Systems'
   title: Session 5 (Deduplication, Compression, Caching)
 - end: 11 PM
@@ -213,12 +260,30 @@ day2:
   start: 11 AM
   talks: 
   - authors: 
+    - Panagiotis Garefalakis (Imperial College London)
+    - Konstantinos Karanasos (Microsoft)
+    - Peter Pietzuch (Imperial College London)
     title: 'NEPTUNE: Scheduling Suspendable Tasks for Unified Stream/Batch Applications'
   - authors: 
+    - Zhijun Wang
+    - Huiyang Li
+    - Zhongwei Li (The University of Texas at Arlington)
+    - Xiaocui Sun (Guangdong Pharmaceutical University)
+    - Jia Rao
+    - Hao Che
+    - Hong Jiang (The University of Texas at Arlington)
     title: 'Pigeon: an Effective Distributed, Hierarchical Datacenter Job Scheduler'
   - authors: 
+    - Wei Chen (University of Colorado, Colorado Springs)
+    - Aidi Pi (University of Colorado Colorado Springs)
+    - Shaoqi Wang
+    - Xiaobo Zhou (University of Colorado, Colorado Springs)
     title: 'Pufferfish: Container-driven Elastic Memory Management for Data-intensive Applications'
   - authors: 
+    - Seyyed Ahmad Javadi
+    - Amoghavarsha Suresh
+    - Muhammad Wajahat
+    - Anshul Gandhi (Stony Brook University)
     title: 'Scavenger: A Black-Box Batch Workload Resource Manager for Improving Utilization in Cloud Environments'
   title: Session 6 (Scheduling and Resource Allocation 2) 
 - end: 1:20 PM
@@ -241,10 +306,26 @@ day2:
   start: 3 PM
   talks: 
   - authors: 
+    - Zhilin Zhang
+    - Ke Wang
+    - Weipeng Lin (Simon Fraser University)
+    - Ada Wai-Chee Fu (The Chinese University of Hong Kong)
+    - Raymond Chi-Wing Wong (Hong Kong University of Science and Technology)
     title: 'Repeatable Oblivious Shuffling of Large Outsourced Data Blocks'
   - authors: 
+    - Ji-Yong Shin
+    - Jieung Kim
+    - Wolf Honore
+    - Hernan Vanzetto (Yale University)
+    - Srihari Radhakrishnan (Duke University)
+    - Mahesh Balakrishnan (Yale University / Facebook)
+    - Zhong Shao (Yale University)
     title: 'WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems'
   - authors: 
+    - Pedro Las-Casas
+    - Giorgi Papakerashvili
+    - Vaastav Anand
+    - Jonathan Mace (MPI-SWS)
     title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
   title: Session 7 (Security, Verifiability, Performance)
 - end: 5 PM
@@ -255,12 +336,26 @@ day2:
   start: 5 PM
   talks:
   - authors: 
+    - Fan Guo
+    - Yongkun Li
+    - Min Lv
+    - Yinlong Xu (University of Science and Technology of China)
+    - John C. S. Lui (The Chinese University of Hong Kong)
     title: 'HP-Mapper: A High Performance Storage Driver for Docker Containers'
   - authors: 
+    - Hossein Golestani
+    - Amirhossein Mirhosseini
+    - Thomas Wenisch (University of Michigan)
     title: 'Software Data Planes: You Cannot Always Spin to Win'     
   - authors: 
+    - Zhenyu Zhou (Duke University)
+    - Theophilus A. Benson (Brown University)
     title: 'Composing SDN Controller Enhancements with Mozart'
   - authors: 
+    - Rui Li
+    - Peizhen Guo
+    - Bo Hu
+    - Wenjun Hu (Yale University)
     title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
   title: Session 8 (Performance)
 - end: 8:00 PM
@@ -286,12 +381,34 @@ day3:
   start: 9 AM
   talks: 
   - authors: 
+    - Liangfeng Cheng
+    - Yuchong Hu (Huazhong University of Science and Technology)
+    - Patrick P. C. Lee (The Chinese University of Hong Kong)
     title: 'Coupling Decentralized Key-Value Stores with Erasure Coding'
   - authors: 
+    - Kunal Lillaney (Johns Hopkins University)
+    - Vasily Tarasov
+    - David Pease (IBM Research - Almaden)
+    - Randal Burns (Johns Hopkins University)
     title: 'Agni: An Efficient Dual-access File System over Object Storage'
   - authors: 
+    - Shuyang Liu
+    - Shucheng Wang
+    - Qiang Cao
+    - Ziyi Lu (Huazhong University of Science and Technology)
+    - Hong Jiang (UT Arlington)
+    - Jie Yao (Huazhong University of Science and Technology)
+    - Yuanyuan Dong
+    - Puyuan Yang (Alibaba)
     title: 'Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud'
   -authors: 
+    - Alekh Jindal
+    - Hiren Patel
+    - Abhishek Roy
+    - Shi Qiao
+    - Zhicheng Yin
+    - Rathijit Sen
+    - Subru Krishnan (Microsoft)
     title: 'Peregrine: Workload Optimization for Cloud Query Engines'
   title: Session 9 (Storage) 
 - end: 11 AM
@@ -302,12 +419,34 @@ day3:
   start: 11 AM
   talks: 
   - authors: 
+    - Ravi Netravali (UCLA)
+    - James Mickens (Harvard University)
     title: 'Reverb: Speculative Debugging for Web Applications'
   - authors: 
+    - Liqun Shao
+    - Yiwen Zhu (Microsoft Corp.)
+    - Siqi Liu (University of Pittsburgh)
+    - Abhiram Eswaran
+    - Kristin Lieber
+    - Janhavi Mahajan
+    - Minsoo Thigpen
+    - Sudhir Darbha (Microsoft Corp.)
+    - Subru Krishnan (Microsoft)
+    - Soundar Srinivasan (Microsoft Corp.)
+    - Carlo Curino
+    - Konstantinos Karanasos (Microsoft)
     title: 'Griffon: Reasoning about Job Anomalies with Unlabeled Data in Cloud-based Platforms'
   - authors: 
+    - Bertty Contreras (QCRI)
+    - Jorge Quiane (QCRI and TU Berlin)
+    - Zoi Kaoudi (QCRI and TU Berlin)
+    - Saravanan Thirumuruganathan (QCRI) 
     title: 'TagSniff: Simplified Big Data Debugging for Dataflow Jobs' 
   - authors: 
+    - Jason Teoh
+    - Muhammad Ali Gulzar
+    - Guoqing Harry Xu
+    - Miryung Kim (UCLA)
     title: 'PerfDebug: Performance Debugging of Computation Skew in Dataflow Systems'
   title: Session 10 (Debugging and Root Cause Analysis)
 - end: 2 PM
