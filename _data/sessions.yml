@@ -424,7 +424,7 @@ day3:
     - Yuanyuan Dong
     - Puyuan Yang (Alibaba)
     title: 'Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud'
-  -authors: 
+  - authors: 
     - Alekh Jindal
     - Hiren Patel
     - Abhishek Roy
