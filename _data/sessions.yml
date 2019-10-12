@@ -201,16 +201,39 @@ day1:
   start: 8 PM
   talks:
   - authors: 
+    - Tuan Tran
+    - Priyanka Mondal
+    - Roy Shadmonm
+    - Manthan Mallikarjun
+    - Peter Alvaro
+    - Owen Arden
     title: 'Vote Them Out: Detecting and Eliminating Byzantine Peers'
   - authors: 
+    - Jeongchul Kim
+    - Kyungyong Lee
     title: 'Practical Cloud Workloads for Serverless FaaS'
   - authors: 
+    - Yang Liu
+    - Huanle Xu
+    - Wing Cheong Lau 
     title: 'Accordia: Adaptive Cloud Configuration Optimization for Recurring Data-Intensive Applications'
   - authors: 
+    - Aman Jain
+    - Ata F. Baarzi
+    - Nader Alfares
+    - George Kesidis
+    - Bhuvan Urgaonkar
+    - Mahmut Kandemir 
     title: 'SplitServe: Efficiently Splitting Complex Workloads Across FaaS and IaaS'
   - authors: 
+    - Xi Cheng
+    - Jiaxun Wu
+    - Amir Hormat (Google)
     title: 'How to Cluster Mixed Geography Data in BigQuery'
   - authors: 
+    - Hiren Patel
+    - Alekh Jindal
+    - Clemens Szyperski  (Microsoft)
     title: 'Big Data Processing at Microsoft: Hyper Scale, Massive Complexity, and Minimal Cost'
   title: Gong show, drinks, & anniversary cake 
 day2:
