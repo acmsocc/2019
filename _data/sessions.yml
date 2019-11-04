@@ -231,6 +231,14 @@ day1:
     - Amir Hormati (Google)
     title: 'How to Cluster Mixed Geography Data in BigQuery'
   - authors: 
+    - Akshat Vig
+    - Doug Terry
+    - Jaso Sorenson
+    - Somu Perianayagam (Amazon AWS)
+    - Stefano Stefani
+    - Tony Petrossian 
+    title: 'Fast Distributed Transactions at Scale for DynamoDB'
+  - authors: 
     - Hiren Patel
     - Alekh Jindal
     - Clemens Szyperski  (Microsoft)
