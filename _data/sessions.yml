@@ -116,7 +116,7 @@ day1:
     - Xiao Yan (The Chinese University of Hong Kong)
     title: 'Grasper: A High Performance Distributed System for OLAP on Property Graphs'
   title: Session 2 (Systems for ML and Data Mining)
-   chair: 'Neeraja Yadwadkar'
+  chair: 'Neeraja Yadwadkar'
 - end: 1:20 PM
   start: 12:30 PM
   talks: []
