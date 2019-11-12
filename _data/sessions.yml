@@ -55,6 +55,7 @@ day1:
     - Soo-Mook Moon (Seoul National University)
     title: 'Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration'							
   title: Session 1 (Edge Computing and Serverless Computing)
+  chair: 'Faisal Nawab'
 - end: 11:00 AM
   start: 10:30 AM
   talks: 
@@ -115,6 +116,7 @@ day1:
     - Xiao Yan (The Chinese University of Hong Kong)
     title: 'Grasper: A High Performance Distributed System for OLAP on Property Graphs'
   title: Session 2 (Systems for ML and Data Mining)
+   chair: 'Neeraja Yadwadkar'
 - end: 1:20 PM
   start: 12:30 PM
   talks: []
@@ -159,7 +161,8 @@ day1:
     - Yunchuan Zheng
     - Wei Wang (HKUST)
     title: 'Characterizing and Synthesizing Task Dependencies of Data-Parallel Jobs in Alibaba Cloud'
-  title: Session 3 (Scheduling and Resource Allocation 1 ) 
+  title: Session 3 (Scheduling and Resource Allocation 1)
+  chair: 'Neeraja Yadwadkar'
 - end: 5 PM
   start: 4:30 PM
   talks: []
@@ -192,6 +195,7 @@ day1:
     - Ravi Netravali (UCLA)
     title: 'A System-Wide Debugging Assistant Powered by Natural Language Processing'
   title: Session 4 (Vision)
+  chair: 'Roxana Geambasu'
 - end: 8 PM
   start: 6:30 PM
   talks: 
@@ -282,6 +286,7 @@ day2:
     - Song Jiang (University of Texas at Arlington)
     title: 'RapidCDC: Leveraging Duplicate Locality to Accelerate Chunking in CDC-based Deduplication Systems'
   title: Session 5 (Deduplication, Compression, Caching)
+  chair: 'Rebecca Taft'
 - end: 11 PM
   start: 10:30 AM
   talks: 
@@ -317,6 +322,7 @@ day2:
     - Anshul Gandhi (Stony Brook University)
     title: 'Scavenger: A Black-Box Batch Workload Resource Manager for Improving Utilization in Cloud Environments'
   title: Session 6 (Scheduling and Resource Allocation 2) 
+  chair: 'Timothy Zhu'
 - end: 1:20 PM
   start: 12:30 PM
   talks: []
@@ -359,6 +365,7 @@ day2:
     - Jonathan Mace (MPI-SWS)
     title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
   title: Session 7 (Security, Verifiability, Performance)
+  chair: 'Raluca Popa'
 - end: 5 PM
   start: 4:30 PM
   talks: []
@@ -389,6 +396,7 @@ day2:
     - Wenjun Hu (Yale University)
     title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
   title: Session 8 (Performance)
+  chair: 'Alekh Jindal'
 - end: 8:00 PM
   start: 6:30 PM
   talks: 
@@ -442,6 +450,7 @@ day3:
     - Subru Krishnan (Microsoft)
     title: 'Peregrine: Workload Optimization for Cloud Query Engines'
   title: Session 9 (Storage) 
+  chair: 'Russell Sears'
 - end: 11 AM
   start: 10:30 AM
   talks: []
@@ -480,6 +489,7 @@ day3:
     - Miryung Kim (UCLA)
     title: 'PerfDebug: Performance Debugging of Computation Skew in Dataflow Systems'
   title: Session 10 (Debugging and Root Cause Analysis)
+  chair: 'Timothy Zhu'
 - end: 2 PM
   start: 12:30 PM
   talks: []
