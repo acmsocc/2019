@@ -231,6 +231,7 @@ day1:
     title: 'SplitServe: Efficiently Splitting Complex Workloads Across FaaS and IaaS'
   - authors: 
     - Xi Cheng
+    - Mingge Deng
     - Jiaxun Wu
     - Amir Hormati (Google)
     title: 'Extending Kmeans to Cluster Mixed Geo & Non-Geo Data in BigQuery'
