@@ -3,7 +3,7 @@ day0:
   start: 6:30 PM
   talks: 
   - authors: (for attendees staying at Chaminade)
-  title: Dinner 
+  title: Dinner
  # location: TBA  
 - end: []
   start: 8 PM
@@ -233,7 +233,7 @@ day1:
     - Xi Cheng
     - Jiaxun Wu
     - Amir Hormati (Google)
-    title: 'How to Cluster Mixed Geography Data in BigQuery'
+    title: 'Extending Kmeans to Cluster Mixed Geo & Non-Geo Data in BigQuery'
   - authors: 
     - Akshat Vig
     - Doug Terry
