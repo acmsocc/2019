@@ -228,15 +228,18 @@ day1:
     - Peter Alvaro
     - Owen Arden
     title: 'Vote Them Out: Detecting and Eliminating Byzantine Peers'
+    url: 'https://dl.acm.org/citation.cfm?id=3365442'
   - authors: 
     - Jeongchul Kim
     - Kyungyong Lee
     title: 'Practical Cloud Workloads for Serverless FaaS'
+    url: 'https://dl.acm.org/citation.cfm?id=3365439'
   - authors: 
     - Yang Liu
     - Huanle Xu
     - Wing Cheong Lau 
     title: 'Accordia: Adaptive Cloud Configuration Optimization for Recurring Data-Intensive Applications'
+    url: 'https://dl.acm.org/citation.cfm?id=3365441'
   - authors: 
     - Aman Jain
     - Ata F. Baarzi
@@ -245,6 +248,7 @@ day1:
     - Bhuvan Urgaonkar
     - Mahmut Kandemir 
     title: 'SplitServe: Efficiently Splitting Complex Workloads Across FaaS and IaaS'
+    url: 'https://dl.acm.org/citation.cfm?id=3366027'
   - authors: 
     - Xi Cheng
     - Mingge Deng
@@ -264,6 +268,7 @@ day1:
     - Alekh Jindal
     - Clemens Szyperski  (Microsoft)
     title: 'Big Data Processing at Microsoft: Hyper Scale, Massive Complexity, and Minimal Cost'
+    url: 'https://dl.acm.org/citation.cfm?id=3366029'
   title: Gong show, drinks, & anniversary cake 
 day2:
 - end: 8:20 AM
