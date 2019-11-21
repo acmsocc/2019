@@ -42,19 +42,22 @@ day1:
     - Andrew Zhang
     - Randy Katz (UC Berkeley)
     title: 'Cirrus: a Serverless Framework for End-to-end ML Workflows' 					
+    url: 'https://dl.acm.org/citation.cfm?id=3362711'
   - authors: 
     - Harshit Daga (Georgia Institute of Technology)
     - Patrick Nicholson (Nokia Bell Labs)
     - Ada Gavrilovska (Georgia Institute of Technology)
     - Diego Lugones (Nokia Bell Labs)
-    title: 'Cartel: A System for Collaborative Transfer Learning at the Edge'							
+    title: 'Cartel: A System for Collaborative Transfer Learning at the Edge'						
+    url: 'https://dl.acm.org/citation.cfm?id=3362708'
   - authors: 
     - Hyuk-Jin Jeong
     - Chang Hyun Shin
     - Kwang Yong Shin
     - Hyeon-Jae Lee
     - Soo-Mook Moon (Seoul National University)
-    title: 'Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration'							
+    title: 'Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration'	
+    url: 'https://dl.acm.org/citation.cfm?id=3362735'
   title: Session 1 (Edge Computing and Serverless Computing)
   chair: 'Faisal Nawab'
 - end: 11:00 AM
@@ -87,6 +90,7 @@ day1:
     - Kai Huang (Intel)
     - Guoqiong Song (Intel)
     title: 'BigDL: A Distributed Deep Learning Framework for Big Data'
+    url:'https://dl.acm.org/citation.cfm?id=3362707'
   - authors: 
     - Richard Liaw
     - Romil Bhardwaj
