@@ -90,6 +90,7 @@ day1:
     - Kai Huang (Intel)
     - Guoqiong Song (Intel)
     title: 'BigDL: A Distributed Deep Learning Framework for Big Data'
+    url: 'https://dl.acm.org/citation.cfm?id=3362707'
   - authors: 
     - Richard Liaw
     - Romil Bhardwaj
@@ -152,22 +153,26 @@ day1:
     - Himanshu Shukla
     - Ramesh Chandra (Nutanix)
     title: 'Hotspot Mitigations for the Masses'
+    url: 'https://dl.acm.org/citation.cfm?id=3362717'
   - authors: 
     - Fan Guo
     - Yongkun Li (University of Science and Technology of China)
     - John C. S. Lui (The Chinese University of Hong Kong)
     - Yinlong Xu (University of Science and Technology of China)
     title: 'DCUDA: Dynamic GPU Scheduling with Live Migration Support'
+    url: 'https://dl.acm.org/citation.cfm?id=3362714'
   - authors: 
     - Ataollah Fatahi Baarzi
     - Timothy Zhu
     - Bhuvan Urgaonkar (The Pennsylvania State University)
     title: 'BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud'
+    url: 'https://dl.acm.org/citation.cfm?id=3362706'
   - authors: 
     - Huangshi Tian
     - Yunchuan Zheng
     - Wei Wang (HKUST)
     title: 'Characterizing and Synthesizing Task Dependencies of Data-Parallel Jobs in Alibaba Cloud'
+    url: 'https://dl.acm.org/citation.cfm?id=3362710'
   title: Session 3 (Scheduling and Resource Allocation 1)
   chair: 'Neeraja Yadwadkar'
 - end: 5 PM
@@ -181,11 +186,13 @@ day1:
     - Sonika Jindal
     - Robert Ricci (University of Utah)
     title: 'MME-FaaS Cloud-Native Control for Mobile Networks' 
+    url: 'https://dl.acm.org/citation.cfm?id=3362722'
   - authors: 
     - Kostis Kaffes
     - Neeraja Yadwadkar (Stanford University)
     - Christos Kozyrakis (Stanford University, Google)
     title: 'Centralized Core-granular Scheduling for Serverless Functions'
+    url: 'https://dl.acm.org/citation.cfm?id=3362709'
   - authors: 
     - Emre Ates (Boston University)
     - Lily Sturmann (RedHat, Inc.)
@@ -195,12 +202,14 @@ day1:
     - Ayse K. Coskun (Boston University)
     - Raja R. Sambasivan (Tufts University)
     title: 'An Automated, Cross-layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications'
+    url: 'https://dl.acm.org/citation.cfm?id=3362704'
   - authors: 
     - Pradeep Dogga (UCLA)
     - Karthik Narasimhan (Princeton University)
     - Anirudh Sivaraman (NYU)
     - Ravi Netravali (UCLA)
     title: 'A System-Wide Debugging Assistant Powered by Natural Language Processing'
+    url: 'https://dl.acm.org/citation.cfm?id=3362701'
   title: Session 4 (Vision)
   chair: 'Roxana Geambasu'
 - end: 8 PM
@@ -277,22 +286,26 @@ day2:
     - Alvin Cheung
     - Mark Oskin (University of Washington)
     title: 'Perceptual Compression for Video Storage and Processing Systems'
+    url: 'https://dl.acm.org/citation.cfm?id=3362725'
   - authors: 
     - Cheng Pan
     - Yingwei Luo
     - Xiaolin Wang (Peking University)
     - Zhenlin Wang (Michigan Tech)
     title: 'pRedis: Penalty and Locality Aware Memory Allocation in Redis'
+    url: 'https://dl.acm.org/citation.cfm?id=3362729'
   - authors:
     - Lana Ramjit (UCLA)
     - Matteo Interlandi (Microsoft)
     - Eugene Wu (Columbia University)
     - Ravi Netravali (UCLA)
     title: 'Acorn: Aggressive Result Caching in Distributed Data Processing Frameworks'
+    url: 'https://dl.acm.org/citation.cfm?id=3362702'
   - authors: 
     - Fan Ni (University of Texas, Arlington)
     - Song Jiang (University of Texas at Arlington)
     title: 'RapidCDC: Leveraging Duplicate Locality to Accelerate Chunking in CDC-based Deduplication Systems'
+    url: 'https://dl.acm.org/citation.cfm?id=3362731'
   title: Session 5 (Deduplication, Compression, Caching)
   chair: 'Rebecca Taft'
 - end: 11 PM
@@ -308,6 +321,7 @@ day2:
     - Konstantinos Karanasos (Microsoft)
     - Peter Pietzuch (Imperial College London)
     title: 'NEPTUNE: Scheduling Suspendable Tasks for Unified Stream/Batch Applications'
+    url: 'https://dl.acm.org/citation.cfm?id=3362724'
   - authors: 
     - Zhijun Wang
     - Huiyang Li
@@ -317,18 +331,21 @@ day2:
     - Hao Che
     - Hong Jiang (The University of Texas at Arlington)
     title: 'Pigeon: an Effective Distributed, Hierarchical Datacenter Job Scheduler'
+    url: 'https://dl.acm.org/citation.cfm?id=3362728'
   - authors: 
     - Wei Chen (University of Colorado, Colorado Springs)
     - Aidi Pi (University of Colorado Colorado Springs)
     - Shaoqi Wang
     - Xiaobo Zhou (University of Colorado, Colorado Springs)
     title: 'Pufferfish: Container-driven Elastic Memory Management for Data-intensive Applications'
+    url: 'https://dl.acm.org/citation.cfm?id=3362730'
   - authors: 
     - Seyyed Ahmad Javadi
     - Amoghavarsha Suresh
     - Muhammad Wajahat
     - Anshul Gandhi (Stony Brook University)
     title: 'Scavenger: A Black-Box Batch Workload Resource Manager for Improving Utilization in Cloud Environments'
+    url: 'https://dl.acm.org/citation.cfm?id=3362734'
   title: Session 6 (Scheduling and Resource Allocation 2) 
   chair: 'Timothy Zhu'
 - end: 1:20 PM
@@ -357,6 +374,7 @@ day2:
     - Ada Wai-Chee Fu (The Chinese University of Hong Kong)
     - Raymond Chi-Wing Wong (Hong Kong University of Science and Technology)
     title: 'Repeatable Oblivious Shuffling of Large Outsourced Data Blocks'
+    url: 'https://dl.acm.org/citation.cfm?id=3362732'
   - authors: 
     - Ji-Yong Shin
     - Jieung Kim
@@ -366,12 +384,14 @@ day2:
     - Mahesh Balakrishnan (Yale University / Facebook)
     - Zhong Shao (Yale University)
     title: 'WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems'
+    url: 'https://dl.acm.org/citation.cfm?id=3362739'
   - authors: 
     - Pedro Las-Casas
     - Giorgi Papakerashvili
     - Vaastav Anand
     - Jonathan Mace (MPI-SWS)
     title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
+    url: 'https://dl.acm.org/citation.cfm?id=3362736'
   title: Session 7 (Security, Verifiability, Performance)
   chair: 'Raluca Popa'
 - end: 5 PM
@@ -388,21 +408,25 @@ day2:
     - Yinlong Xu (University of Science and Technology of China)
     - John C. S. Lui (The Chinese University of Hong Kong)
     title: 'HP-Mapper: A High Performance Storage Driver for Docker Containers'
+    url: 'https://dl.acm.org/citation.cfm?id=3362718'
   - authors: 
     - Hossein Golestani
     - Amirhossein Mirhosseini
     - Thomas Wenisch (University of Michigan)
-    title: 'Software Data Planes: You Cannot Always Spin to Win'     
+    title: 'Software Data Planes: You Cannot Always Spin to Win'    
+    url: 'https://dl.acm.org/citation.cfm?id=3362737'
   - authors: 
     - Zhenyu Zhou (Duke University)
     - Theophilus A. Benson (Brown University)
     title: 'Composing SDN Controller Enhancements with Mozart'
+    url: 'https://dl.acm.org/citation.cfm?id=3362712'
   - authors: 
     - Rui Li
     - Peizhen Guo
     - Bo Hu
     - Wenjun Hu (Yale University)
     title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
+    url: 'https://dl.acm.org/citation.cfm?id=3362720'
   title: Session 8 (Performance)
   chair: 'Alekh Jindal'
 - end: 8:00 PM
@@ -432,12 +456,14 @@ day3:
     - Yuchong Hu (Huazhong University of Science and Technology)
     - Patrick P. C. Lee (The Chinese University of Hong Kong)
     title: 'Coupling Decentralized Key-Value Stores with Erasure Coding'
+    url: 'https://dl.acm.org/citation.cfm?id=3362713'
   - authors: 
     - Kunal Lillaney (Johns Hopkins University)
     - Vasily Tarasov
     - David Pease (IBM Research - Almaden)
     - Randal Burns (Johns Hopkins University)
     title: 'Agni: An Efficient Dual-access File System over Object Storage'
+    url: 'https://dl.acm.org/citation.cfm?id=3362703'
   - authors: 
     - Shuyang Liu
     - Shucheng Wang
@@ -448,6 +474,7 @@ day3:
     - Yuanyuan Dong
     - Puyuan Yang (Alibaba)
     title: 'Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud'
+    url: 'https://dl.acm.org/citation.cfm?id=3362705'
   - authors: 
     - Alekh Jindal
     - Hiren Patel
@@ -457,6 +484,7 @@ day3:
     - Rathijit Sen
     - Subru Krishnan (Microsoft)
     title: 'Peregrine: Workload Optimization for Cloud Query Engines'
+    url: 'https://dl.acm.org/citation.cfm?id=3362726'
   title: Session 9 (Storage) 
   chair: 'Russell Sears'
 - end: 11 AM
@@ -470,6 +498,7 @@ day3:
     - Ravi Netravali (UCLA)
     - James Mickens (Harvard University)
     title: 'Reverb: Speculative Debugging for Web Applications'
+    url: 'https://dl.acm.org/citation.cfm?id=3362733'
   - authors: 
     - Liqun Shao
     - Yiwen Zhu (Microsoft Corp.)
@@ -484,18 +513,21 @@ day3:
     - Carlo Curino
     - Konstantinos Karanasos (Microsoft)
     title: 'Griffon: Reasoning about Job Anomalies with Unlabeled Data in Cloud-based Platforms'
+    url: 'https://dl.acm.org/citation.cfm?id=3362716'
   - authors: 
     - Bertty Contreras (QCRI)
     - Jorge Quiane (QCRI and TU Berlin)
     - Zoi Kaoudi (QCRI and TU Berlin)
     - Saravanan Thirumuruganathan (QCRI) 
     title: 'TagSniff: Simplified Big Data Debugging for Dataflow Jobs' 
+    url: 'https://dl.acm.org/citation.cfm?id=3362738'
   - authors: 
     - Jason Teoh
     - Muhammad Ali Gulzar
     - Guoqing Harry Xu
     - Miryung Kim (UCLA)
     title: 'PerfDebug: Performance Debugging of Computation Skew in Dataflow Systems'
+    url: 'https://dl.acm.org/citation.cfm?id=3362727'
   title: Session 10 (Debugging and Root Cause Analysis)
   chair: 'Timothy Zhu'
 - end: 2 PM
