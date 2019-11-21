@@ -33,7 +33,8 @@ day1:
     - Dong Xie 
     - Feifei Li 
     - Ryan Stutsman (University of Utah)
-    title: 'Narrowing the Gap Between Serverless and its State with Storage Functions'						
+    title: 'Narrowing the Gap Between Serverless and its State with Storage Functions'		
+    url: 'https://dl.acm.org/citation.cfm?id=3362723'
   - authors: 
     - Joao Carreira (UC Berkeley)
     - Pedro Fonseca (Purdue University)
