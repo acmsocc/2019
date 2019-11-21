@@ -90,7 +90,7 @@ day1:
     - Kai Huang (Intel)
     - Guoqiong Song (Intel)
     title: 'BigDL: A Distributed Deep Learning Framework for Big Data'
-    url:'https://dl.acm.org/citation.cfm?id=3362707'
+    url: 'https://dl.acm.org/citation.cfm?id=3362707'
   - authors: 
     - Richard Liaw
     - Romil Bhardwaj
@@ -100,6 +100,7 @@ day1:
     - Joseph Gonzalez
     - Ion Stoica (UC Berkeley)
     title: 'HyperSched: Dynamic Resource Reallocation for Model Development on a Deadline'
+    url: 'https://dl.acm.org/citation.cfm?id=3362719'
   - authors: 
     - Zachary Zimmerman
     - Kaveh Kamgar
@@ -110,6 +111,7 @@ day1:
     - Philip Brisk
     - Eamonn Keogh (University of California, Riverside)
     title: 'Matrix Profile XIV: Scaling Time Series Motif Discovery with GPUs to Break a Quintillion Pairwise Comparisons a Day and Beyond'
+    url: 'https://dl.acm.org/citation.cfm?id=3362721'
   - authors:
     - Hongzhi Chen
     - Changji Li
@@ -120,6 +122,7 @@ day1:
     - Yifan Hou
     - Xiao Yan (The Chinese University of Hong Kong)
     title: 'Grasper: A High Performance Distributed System for OLAP on Property Graphs'
+    url: 'https://dl.acm.org/citation.cfm?id=3362715'
   title: Session 2 (Systems for ML and Data Mining)
   chair: 'Neeraja Yadwadkar'
 - end: 1:20 PM
