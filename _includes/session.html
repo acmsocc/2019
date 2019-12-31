@@ -40,10 +40,10 @@
                 {% if talk.url and (showlinks or is_keynote) %}
                   {% if talk.best %}
                   <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</h4></a>
-				  {% elsif talk.bestvision %}
-				  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best Vision paper]</font> {{ talk.title }}</h4></a>
+		  {% elsif talk.bestvision %}
+		  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best Vision paper]</font> {{ talk.title }}</h4></a>
                   {% else %}
-                  <a href="{{talk.url}}"><h4 class="talk-title-link">{{ talk.title }}</h4></a>
+                  <h4 class="talk-title">{{ talk.title }}</h4>
                   {% endif %}
                 {% else %}
                 <h4 class="talk-title">{{ talk.title }}</h4>
