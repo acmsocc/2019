@@ -52,6 +52,8 @@
                 <p class="course-meta" style="line-height:18px;">{{authors}}</p>
                 {% if talk.slides and talk.audio %}
                   <a href="{{talk.slides}}">Slides</a>
+                {% endif %}
+                {% if talk.slides and talk.audio %}
                   <a href="{{talk.audio}}">Audio</a>
                 {% endif %}
               </li>
