@@ -43,6 +43,8 @@ day1:
     - Randy Katz (UC Berkeley)
     title: 'Cirrus: a Serverless Framework for End-to-end ML Workflows' 					
     url: 'https://dl.acm.org/citation.cfm?id=3362711'
+    slides: 'slides/socc19-slides-s1-carreira.pdf'
+    audio: 'audio/socc19-audio-s1-carreira.mp3'
   - authors: 
     - Harshit Daga (Georgia Institute of Technology)
     - Patrick Nicholson (Nokia Bell Labs)
