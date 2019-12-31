@@ -50,11 +50,9 @@
                 {% endif %}
                 {% assign authors = talk.authors | join: ', ' %}
                 <p class="course-meta" style="line-height:18px;">{{authors}}</p>
-                {% if talk.slides %}
-                  <a href="{{talk.slides}}"><h4 class="talk-title-link">Slides</h4></a>
-                {% endif %}
-                {% if talk.audio %}
-                  <a href="{{talk.audio}}"><h4 class="talk-title-link">Audio</h4></a>
+                {% if talk.slides and talk.audio %}
+                  <a href="{{talk.slides}}">Slides</a>
+                  <a href="{{talk.audio}}">Audio</a>
                 {% endif %}
               </li>
               {% endfor %}
