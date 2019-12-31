@@ -23,8 +23,12 @@ day1:
   title: Chairs' Welcome 
 - end: 9 AM
   start: 8:35 AM
-  talks: []
-  title: 10yr Perspective - Raghu Ramakrishnan (Microsoft)
+  title: 10 year Perspective
+  talks:
+  - authors: 
+    - Raghu Ramakrishnan (Microsoft) 
+    slides: 'slides/socc19-slides-keynote-ramakrishnan.pdf'
+    audio: 'audio/socc19-audio-10years-raghu.mp3'
 - end: 10:30 AM
   start: 9:00 AM
   talks: 
@@ -150,8 +154,12 @@ day1:
   # chair: 'Patrick Stuedi'
 - end: 2:50 PM
   start: 2:10 PM
-  talks: []
-  title: Keynote 1 - Matei Zaharia (Stanford, Databricks) 
+  title: Keynote 1
+  talks:
+  - authors: 
+    - Matei Zaharia (Stanford, Databricks) 
+    slides: 'slides/socc19-slides-keynote-zaharia.pdf'
+    audio: 'audio/socc19-audio-keynote-zaharia.mp3'
 - end: 3:00 PM
   start: 2:50 PM
   talks: []
@@ -303,7 +311,12 @@ day2:
 - end: 9 AM
   start: 8:20 AM
   talks: []
-  title: Keynote 2 - Sarah Guo (Greylock Partners)
+  title: Keynote 2
+  talks:
+  - authors: 
+    - Sarah Guo (Greylock Partners) 
+    slides: 'slides/socc19-slides-keynote-guo.pdf'
+    audio: 'audio/socc19-audio-keynote-guo.mp3'
 - end: 10:30 AM
   start: 9 AM
   talks:
@@ -403,8 +416,12 @@ day2:
   title: Poster Session 2
 - end: 2:50 PM
   start: 2:10 PM
-  talks: []
-  title: Keynote 3 - Raluca Ada Popa (UC Berkeley)
+  title: Keynote 3
+  talks:
+  - authors: 
+    - Raluca Ada Popa (UC Berkeley) 
+    slides: 'slides/socc19-slides-keynote-popa.pdf'
+    audio: 'audio/socc19-audio-keynote-popa.mp3'
 - end: 3 PM
   start: 2:50 PM
   talks: []
@@ -505,8 +522,12 @@ day3:
   title: Breakfast
 - end: 9 AM
   start: 8:20 AM
-  talks: []
-  title: Award Session + Notes from Brian Cooper (Google)
+  title: Award Session + Award Talk 
+  talks:
+  - authors: 
+    - Award talk by Brian Cooper (Google) 
+    slides: 'slides/socc19-audio-award-talk-cooper.pdf'
+    audio: 'audio/socc19-audio-award-talk-cooper.mp3'
 - end: 10:30 AM
   start: 9 AM
   talks: 
