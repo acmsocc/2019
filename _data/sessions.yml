@@ -35,6 +35,8 @@ day1:
     - Ryan Stutsman (University of Utah)
     title: 'Narrowing the Gap Between Serverless and its State with Storage Functions'		
     url: 'https://dl.acm.org/citation.cfm?id=3362723'
+    slides: 'slides/socc19-slides-s1-zhang.pdf'
+    audio: 'audio/socc19-audio-s1-zhang.mp3'
   - authors: 
     - Joao Carreira (UC Berkeley)
     - Pedro Fonseca (Purdue University)
@@ -52,6 +54,8 @@ day1:
     - Diego Lugones (Nokia Bell Labs)
     title: 'Cartel: A System for Collaborative Transfer Learning at the Edge'						
     url: 'https://dl.acm.org/citation.cfm?id=3362708'
+    slides: 'slides/socc19-slides-s1-daga.pdf'
+    audio: 'audio/socc19-audio-s1-daga.mp3'
   - authors: 
     - Hyuk-Jin Jeong
     - Chang Hyun Shin
@@ -60,6 +64,8 @@ day1:
     - Soo-Mook Moon (Seoul National University)
     title: 'Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration'	
     url: 'https://dl.acm.org/citation.cfm?id=3362735'
+    slides: 'slides/socc19-slides-s1-jeong.pdf'
+    audio: 'audio/socc19-audio-s1-jeong.mp3'
   title: Session 1 (Edge Computing and Serverless Computing)
   chair: 'Faisal Nawab'
 - end: 11:00 AM
@@ -93,6 +99,8 @@ day1:
     - Guoqiong Song (Intel)
     title: 'BigDL: A Distributed Deep Learning Framework for Big Data'
     url: 'https://dl.acm.org/citation.cfm?id=3362707'
+    slides: 'slides/socc19-slides-s2-dai.pdf'
+    audio: 'audio/socc19-audio-s2-dai.mp3'
   - authors: 
     - Richard Liaw
     - Romil Bhardwaj
@@ -114,6 +122,7 @@ day1:
     - Eamonn Keogh (University of California, Riverside)
     title: 'Matrix Profile XIV: Scaling Time Series Motif Discovery with GPUs to Break a Quintillion Pairwise Comparisons a Day and Beyond'
     url: 'https://dl.acm.org/citation.cfm?id=3362721'
+    slides: 'slides/socc19-slides-s2-zimmerman.pdf'
   - authors:
     - Hongzhi Chen
     - Changji Li
@@ -125,6 +134,8 @@ day1:
     - Xiao Yan (The Chinese University of Hong Kong)
     title: 'Grasper: A High Performance Distributed System for OLAP on Property Graphs'
     url: 'https://dl.acm.org/citation.cfm?id=3362715'
+    slides: 'slides/socc19-slides-s2-chen.pdf'
+    audio: 'audio/socc19-audio-s2-chen.mp3'
   title: Session 2 (Systems for ML and Data Mining)
   chair: 'Neeraja Yadwadkar'
 - end: 1:20 PM
@@ -156,6 +167,8 @@ day1:
     - Ramesh Chandra (Nutanix)
     title: 'Hotspot Mitigations for the Masses'
     url: 'https://dl.acm.org/citation.cfm?id=3362717'
+    slides: 'slides/socc19-slides-s3-hermenier.pdf'
+    audio: 'audio/socc19-audio-s3-hermenier.mp3'
   - authors: 
     - Fan Guo
     - Yongkun Li (University of Science and Technology of China)
@@ -163,18 +176,24 @@ day1:
     - Yinlong Xu (University of Science and Technology of China)
     title: 'DCUDA: Dynamic GPU Scheduling with Live Migration Support'
     url: 'https://dl.acm.org/citation.cfm?id=3362714'
+    slides: 'slides/socc19-slides-s3-guo.pdf'
+    audio: 'audio/socc19-audio-s3-guo.mp3'
   - authors: 
     - Ataollah Fatahi Baarzi
     - Timothy Zhu
     - Bhuvan Urgaonkar (The Pennsylvania State University)
     title: 'BurScale: Using Burstable Instances for Cost-Effective Autoscaling in the Public Cloud'
     url: 'https://dl.acm.org/citation.cfm?id=3362706'
+    slides: 'slides/socc19-slides-s3-fatahi.pdf'
+    audio: 'audio/socc19-audio-s3-fatahi.mp3'
   - authors: 
     - Huangshi Tian
     - Yunchuan Zheng
     - Wei Wang (HKUST)
     title: 'Characterizing and Synthesizing Task Dependencies of Data-Parallel Jobs in Alibaba Cloud'
     url: 'https://dl.acm.org/citation.cfm?id=3362710'
+    slides: 'slides/socc19-slides-s3-tian.pdf'
+    audio: 'audio/socc19-audio-s3-tian.mp3'
   title: Session 3 (Scheduling and Resource Allocation 1)
   chair: 'Neeraja Yadwadkar'
 - end: 5 PM
@@ -189,12 +208,14 @@ day1:
     - Robert Ricci (University of Utah)
     title: 'MME-FaaS Cloud-Native Control for Mobile Networks' 
     url: 'https://dl.acm.org/citation.cfm?id=3362722'
+    slides: 'slides/socc19-slides-s4-jindal.pdf'
   - authors: 
     - Kostis Kaffes
     - Neeraja Yadwadkar (Stanford University)
     - Christos Kozyrakis (Stanford University, Google)
     title: 'Centralized Core-granular Scheduling for Serverless Functions'
     url: 'https://dl.acm.org/citation.cfm?id=3362709'
+    slides: 'slides/socc19-slides-s4-kaffes.pdf'
   - authors: 
     - Emre Ates (Boston University)
     - Lily Sturmann (RedHat, Inc.)
@@ -212,6 +233,7 @@ day1:
     - Ravi Netravali (UCLA)
     title: 'A System-Wide Debugging Assistant Powered by Natural Language Processing'
     url: 'https://dl.acm.org/citation.cfm?id=3362701'
+    slides: 'slides/socc19-slides-s4-dogga.pdf'
   title: Session 4 (Vision)
   chair: 'Roxana Geambasu'
 - end: 8 PM
@@ -294,6 +316,8 @@ day2:
     - Mark Oskin (University of Washington)
     title: 'Perceptual Compression for Video Storage and Processing Systems'
     url: 'https://dl.acm.org/citation.cfm?id=3362725'
+    slides: 'slides/socc19-slides-s5-mazumdar.pdf'
+    audio: 'audio/socc19-audio-s5-mazumdar.mp3'
   - authors: 
     - Cheng Pan
     - Yingwei Luo
@@ -301,6 +325,8 @@ day2:
     - Zhenlin Wang (Michigan Tech)
     title: 'pRedis: Penalty and Locality Aware Memory Allocation in Redis'
     url: 'https://dl.acm.org/citation.cfm?id=3362729'
+    slides: 'slides/socc19-slides-s5-pan.pdf'
+    audio: 'audio/socc19-audio-s5-pan.mp3'
   - authors:
     - Lana Ramjit (UCLA)
     - Matteo Interlandi (Microsoft)
@@ -308,11 +334,15 @@ day2:
     - Ravi Netravali (UCLA)
     title: 'Acorn: Aggressive Result Caching in Distributed Data Processing Frameworks'
     url: 'https://dl.acm.org/citation.cfm?id=3362702'
+    slides: 'slides/socc19-slides-s5-ramjit.pdf'
+    audio: 'audio/socc19-audio-s5-ramjit.mp3'
   - authors: 
     - Fan Ni (University of Texas, Arlington)
     - Song Jiang (University of Texas at Arlington)
     title: 'RapidCDC: Leveraging Duplicate Locality to Accelerate Chunking in CDC-based Deduplication Systems'
     url: 'https://dl.acm.org/citation.cfm?id=3362731'
+    slides: 'slides/socc19-slides-s5-ni.pdf'
+    audio: 'audio/socc19-audio-s5-ni.mp3'
   title: Session 5 (Deduplication, Compression, Caching)
   chair: 'Rebecca Taft'
 - end: 11 PM
@@ -329,6 +359,8 @@ day2:
     - Peter Pietzuch (Imperial College London)
     title: 'NEPTUNE: Scheduling Suspendable Tasks for Unified Stream/Batch Applications'
     url: 'https://dl.acm.org/citation.cfm?id=3362724'
+    slides: 'slides/socc19-slides-s6-garefalakis.pdf'
+    audio: 'audio/socc19-audio-s6-garefalakis.mp3'
   - authors: 
     - Zhijun Wang
     - Huiyang Li
@@ -339,13 +371,17 @@ day2:
     - Hong Jiang (The University of Texas at Arlington)
     title: 'Pigeon: an Effective Distributed, Hierarchical Datacenter Job Scheduler'
     url: 'https://dl.acm.org/citation.cfm?id=3362728'
+    slides: 'slides/socc19-slides-s6-wang.pdf'
+    audio: 'audio/socc19-audio-s6-wang.mp3'
   - authors: 
-    - Wei Chen (University of Colorado, Colorado Springs)
-    - Aidi Pi (University of Colorado Colorado Springs)
+    - Wei Chen
+    - Aidi Pi
     - Shaoqi Wang
     - Xiaobo Zhou (University of Colorado, Colorado Springs)
     title: 'Pufferfish: Container-driven Elastic Memory Management for Data-intensive Applications'
     url: 'https://dl.acm.org/citation.cfm?id=3362730'
+    slides: 'slides/socc19-slides-s6-chen.pdf'
+    audio: 'audio/socc19-audio-s6-chen.mp3'
   - authors: 
     - Seyyed Ahmad Javadi
     - Amoghavarsha Suresh
@@ -353,6 +389,8 @@ day2:
     - Anshul Gandhi (Stony Brook University)
     title: 'Scavenger: A Black-Box Batch Workload Resource Manager for Improving Utilization in Cloud Environments'
     url: 'https://dl.acm.org/citation.cfm?id=3362734'
+    slides: 'slides/socc19-slides-s6-javadi.pdf'
+    audio: 'audio/socc19-audio-s6-javadi.mp3'
   title: Session 6 (Scheduling and Resource Allocation 2) 
   chair: 'Timothy Zhu'
 - end: 1:20 PM
@@ -382,6 +420,8 @@ day2:
     - Raymond Chi-Wing Wong (Hong Kong University of Science and Technology)
     title: 'Repeatable Oblivious Shuffling of Large Outsourced Data Blocks'
     url: 'https://dl.acm.org/citation.cfm?id=3362732'
+    slides: 'slides/socc19-slides-s7-zhang.pdf'
+    audio: 'audio/socc19-audio-s7-zhang.mp3'
   - authors: 
     - Ji-Yong Shin
     - Jieung Kim
@@ -392,6 +432,8 @@ day2:
     - Zhong Shao (Yale University)
     title: 'WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems'
     url: 'https://dl.acm.org/citation.cfm?id=3362739'
+    slides: 'slides/socc19-slides-s7-shin.pdf'
+    audio: 'audio/socc19-audio-s7-shin.mp3'
   - authors: 
     - Pedro Las-Casas
     - Giorgi Papakerashvili
@@ -399,6 +441,8 @@ day2:
     - Jonathan Mace (MPI-SWS)
     title: 'Sifter: Scalable Sampling for Distributed Traces, without Feature Engineering'
     url: 'https://dl.acm.org/citation.cfm?id=3362736'
+    slides: 'slides/socc19-slides-s7-las-casas.pdf'
+    audio: 'audio/socc19-audio-s7-las-casas.mp3'
   title: Session 7 (Security, Verifiability, Performance)
   chair: 'Raluca Popa'
 - end: 5 PM
@@ -416,17 +460,23 @@ day2:
     - John C. S. Lui (The Chinese University of Hong Kong)
     title: 'HP-Mapper: A High Performance Storage Driver for Docker Containers'
     url: 'https://dl.acm.org/citation.cfm?id=3362718'
+    slides: 'slides/socc19-slides-s8-guo.pdf'
+    audio: 'audio/socc19-audio-s8-guo.mp3'
   - authors: 
     - Hossein Golestani
     - Amirhossein Mirhosseini
     - Thomas Wenisch (University of Michigan)
     title: 'Software Data Planes: You Cannot Always Spin to Win'    
     url: 'https://dl.acm.org/citation.cfm?id=3362737'
+    slides: 'slides/socc19-slides-s8-golestani.pdf'
+    audio: 'audio/socc19-audio-s8-golestani.mp3'
   - authors: 
     - Zhenyu Zhou (Duke University)
     - Theophilus A. Benson (Brown University)
     title: 'Composing SDN Controller Enhancements with Mozart'
     url: 'https://dl.acm.org/citation.cfm?id=3362712'
+    slides: 'slides/socc19-slides-s8-zhou.pdf'
+    audio: 'audio/socc19-audio-s8-zhou.mp3'
   - authors: 
     - Rui Li
     - Peizhen Guo
@@ -434,6 +484,8 @@ day2:
     - Wenjun Hu (Yale University)
     title: 'Libra and the Art of Task Sizing in Big-Data Analytic Systems'
     url: 'https://dl.acm.org/citation.cfm?id=3362720'
+    slides: 'slides/socc19-slides-s8-li.pdf'
+    audio: 'audio/socc19-audio-s8-li.mp3'
   title: Session 8 (Performance)
   chair: 'Alekh Jindal'
 - end: 8:00 PM
@@ -464,6 +516,8 @@ day3:
     - Patrick P. C. Lee (The Chinese University of Hong Kong)
     title: 'Coupling Decentralized Key-Value Stores with Erasure Coding'
     url: 'https://dl.acm.org/citation.cfm?id=3362713'
+    slides: 'slides/socc19-slides-s9-cheng.pdf'
+    audio: 'audio/socc19-audio-s9-cheng.mp3'
   - authors: 
     - Kunal Lillaney (Johns Hopkins University)
     - Vasily Tarasov
@@ -471,6 +525,7 @@ day3:
     - Randal Burns (Johns Hopkins University)
     title: 'Agni: An Efficient Dual-access File System over Object Storage'
     url: 'https://dl.acm.org/citation.cfm?id=3362703'
+    audio: 'audio/socc19-audio-s9-lillaney.mp3'
   - authors: 
     - Shuyang Liu
     - Shucheng Wang
@@ -482,6 +537,8 @@ day3:
     - Puyuan Yang (Alibaba)
     title: 'Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud'
     url: 'https://dl.acm.org/citation.cfm?id=3362705'
+    slides: 'slides/socc19-slides-s9-liu.pdf'
+    audio: 'audio/socc19-audio-s9-liu.mp3'
   - authors: 
     - Alekh Jindal
     - Hiren Patel
@@ -492,6 +549,7 @@ day3:
     - Subru Krishnan (Microsoft)
     title: 'Peregrine: Workload Optimization for Cloud Query Engines'
     url: 'https://dl.acm.org/citation.cfm?id=3362726'
+    audio: 'audio/socc19-audio-s9-jindal.mp3'
   title: Session 9 (Storage) 
   chair: 'Russell Sears'
 - end: 11 AM
@@ -506,6 +564,7 @@ day3:
     - James Mickens (Harvard University)
     title: 'Reverb: Speculative Debugging for Web Applications'
     url: 'https://dl.acm.org/citation.cfm?id=3362733'
+    audio: 'audio/socc19-audio-s10-netravali.mp3'
   - authors: 
     - Liqun Shao
     - Yiwen Zhu (Microsoft Corp.)
@@ -521,6 +580,8 @@ day3:
     - Konstantinos Karanasos (Microsoft)
     title: 'Griffon: Reasoning about Job Anomalies with Unlabeled Data in Cloud-based Platforms'
     url: 'https://dl.acm.org/citation.cfm?id=3362716'
+    slides: 'slides/socc19-slides-s10-shao.pdf'
+    audio: 'audio/socc19-audio-s10-shao.mp3'
   - authors: 
     - Bertty Contreras (QCRI)
     - Jorge Quiane (QCRI and TU Berlin)
@@ -528,6 +589,7 @@ day3:
     - Saravanan Thirumuruganathan (QCRI) 
     title: 'TagSniff: Simplified Big Data Debugging for Dataflow Jobs' 
     url: 'https://dl.acm.org/citation.cfm?id=3362738'
+    audio: 'audio/socc19-audio-s10-contreras.mp3'
   - authors: 
     - Jason Teoh
     - Muhammad Ali Gulzar
@@ -535,6 +597,8 @@ day3:
     - Miryung Kim (UCLA)
     title: 'PerfDebug: Performance Debugging of Computation Skew in Dataflow Systems'
     url: 'https://dl.acm.org/citation.cfm?id=3362727'
+    slides: 'slides/socc19-slides-s10-teoh.pdf'
+    audio: 'audio/socc19-audio-s10-teoh.mp3'
   title: Session 10 (Debugging and Root Cause Analysis)
   chair: 'Timothy Zhu'
 - end: 2 PM
