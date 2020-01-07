@@ -528,7 +528,7 @@ day3:
   talks:
   - authors: 
     - Award talk by Brian Cooper (Google) 
-    slides: 'slides/socc19-audio-award-talk-cooper.pdf'
+    slides: 'slides/socc19-slides-award-talk-cooper.pdf'
     audio: 'audio/socc19-audio-award-talk-cooper.mp3'
 - end: 10:30 AM
   start: 9 AM
