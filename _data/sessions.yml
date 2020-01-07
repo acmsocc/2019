@@ -115,6 +115,7 @@ day1:
     - Ion Stoica (UC Berkeley)
     title: 'HyperSched: Dynamic Resource Reallocation for Model Development on a Deadline'
     url: 'https://dl.acm.org/citation.cfm?id=3362719'
+    slides: 'slides/socc19-slides-s2-liaw.pdf'
   - authors: 
     - Zachary Zimmerman
     - Kaveh Kamgar
@@ -234,6 +235,7 @@ day1:
     - Raja R. Sambasivan (Tufts University)
     title: 'An Automated, Cross-layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications'
     url: 'https://dl.acm.org/citation.cfm?id=3362704'
+    slides: 'slides/socc19-slides-s4-ates.pdf'
   - authors: 
     - Pradeep Dogga (UCLA)
     - Karthik Narasimhan (Princeton University)
