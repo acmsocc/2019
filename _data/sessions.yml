@@ -548,6 +548,7 @@ day3:
     - Randal Burns (Johns Hopkins University)
     title: 'Agni: An Efficient Dual-access File System over Object Storage'
     url: 'https://dl.acm.org/citation.cfm?id=3362703'
+    slides: 'slides/socc19-slides-s9-lillaney.pdf'
     audio: 'audio/socc19-audio-s9-lillaney.mp3'
   - authors: 
     - Shuyang Liu
