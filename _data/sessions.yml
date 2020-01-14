@@ -613,6 +613,7 @@ day3:
     - Saravanan Thirumuruganathan (QCRI) 
     title: 'TagSniff: Simplified Big Data Debugging for Dataflow Jobs' 
     url: 'https://dl.acm.org/citation.cfm?id=3362738'
+    slides: 'slides/socc19-slides-s10-contreras.pdf'
     audio: 'audio/socc19-audio-s10-contreras.mp3'
   - authors: 
     - Jason Teoh
