@@ -573,6 +573,7 @@ day3:
     - Subru Krishnan (Microsoft)
     title: 'Peregrine: Workload Optimization for Cloud Query Engines'
     url: 'https://dl.acm.org/citation.cfm?id=3362726'
+    slides: 'slides/socc19-slides-s9-jindal.pdf'
     audio: 'audio/socc19-audio-s9-jindal.mp3'
   title: Session 9 (Storage) 
   chair: 'Russell Sears'
